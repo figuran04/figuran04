@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dika</h1>
-
-<img src="profile.gif" style="width:30%;"/>
+<div class="display:flex; justify: center; width:100%;" align="center">
+  <img src="profile.gif" style="width:30%;"/>
+</div>
 
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
