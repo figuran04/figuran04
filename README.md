@@ -33,3 +33,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=figuran04&show_icons=true&locale=en" alt="figuran04" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=figuran04&" alt="figuran04" /></p>
+
+[![figuran04's GitHub | Stats](https://stats.quira.sh/figuran04/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=figuran04)
+
+[![figuran04's GitHub | Topics Over Time](https://stats.quira.sh/figuran04/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=figuran04)
+
+[![figuran04's GitHub | Languages Over Time](https://stats.quira.sh/figuran04/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=figuran04)
