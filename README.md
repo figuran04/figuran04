@@ -14,8 +14,6 @@
 
 - 💬 Ask me about **react**
 
-- 📫 How to reach me **dikaelsaputra2406@gmail.com**
-
 - ⚡ Fun fact **I think i need some mentors**
 
 <h3 align="left">Connect with me:</h3>
