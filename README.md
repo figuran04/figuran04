@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dika</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
-
 <div class="display:flex; justify: center; width:100%;" align="center">
   <img src="profile.gif" style="width:30%;"/>
 </div>
+<h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=figuran04&label=Profile%20views&color=0e75b6&style=flat" alt="figuran04" /> </p>
 
