@@ -1,5 +1,7 @@
+<img src="https://komarev.com/ghpvc/?username=figuran04&label=Profile%20views&color=0e75b6&style=flat" alt="figuran04" align="right" />
+<img src="https://raw.githubusercontent.com/figuran04/figuran04/output/snake.svg" alt="Snake animation" />
+
 > A passionate frontend developer from Indonesia
-<p align="right"><img src="https://komarev.com/ghpvc/?username=figuran04&label=Profile%20views&color=0e75b6&style=flat" alt="figuran04" /></p>
 <h1 align="center">Hi 👋, I'm Dika</h1>
 <div class="display:flex; justify: center; width:100%;" align="center">
   <img src="profile.gif" style="width:30%;"/>
