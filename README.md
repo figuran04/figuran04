@@ -44,7 +44,7 @@
 
 ![Dynamic Bar Chart](https://github.com/figuran04/figuran04/blob/main/bar_chart.svg)
 
-## 🎖️ GitHub Profile SVG Badge
+## 🎖️ GitHub Profile
 
 ![GitHub Profile Badge](https://github.com/figuran04/figuran04/blob/main/profile_badge.svg)
 
