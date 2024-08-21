@@ -11,13 +11,8 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=figuran04&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-🌱 I’m currently learning **Next js**
-
-👨‍💻 All of my projects are available at [https://figuran04.github.io/](https://figuran04.github.io/)
-
-💬 Ask me about **react**
-
-⚡ Fun fact **I think i need some mentor**
+<!--START_SECTION:medium-->
+<!--END_SECTION:medium-->
 
 ### 🌐 Connect with me:
 <!--<p align="left">
