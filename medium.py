@@ -3,6 +3,7 @@ import svgwrite
 from svgwrite import cm, mm
 from PIL import Image
 from io import BytesIO
+from xml.etree import ElementTree as ET
 
 MEDIUM_RSS_URL = 'https://medium.com/feed/@dikaelsaputra'
 README_PATH = 'README.md'
@@ -34,10 +35,11 @@ def parse_rss(rss_data):
     return title, link, description, thumbnail_url
 
 def download_thumbnail(thumbnail_url):
-    response = requests.get(thumbnail_url)
-    response.raise_for_status()
-    img = Image.open(BytesIO(response.content))
-    img.save(THUMBNAIL_PATH)
+    if thumbnail_url:
+        response = requests.get(thumbnail_url)
+        response.raise_for_status()
+        img = Image.open(BytesIO(response.content))
+        img.save(THUMBNAIL_PATH)
 
 def create_svg(title, link, description):
     dwg = svgwrite.Drawing('content.svg', profile='tiny', size=(210*mm, 297*mm))
@@ -58,8 +60,7 @@ def update_readme(title, link, description):
 def main():
     rss_data = fetch_medium_rss()
     title, link, description, thumbnail_url = parse_rss(rss_data)
-    if thumbnail_url:
-        download_thumbnail(thumbnail_url)
+    download_thumbnail(thumbnail_url)
     create_svg(title, link, description)
     update_readme(title, link, description)
 
