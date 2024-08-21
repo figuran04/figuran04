@@ -14,14 +14,23 @@ def fetch_medium_rss():
     return response.text
 
 def parse_rss(rss_data):
-    from xml.etree import ElementTree as ET
     root = ET.fromstring(rss_data)
     item = root.find('.//item')
-    title = item.find('title').text
-    link = item.find('link').text
-    description = item.find('description').text
+    if item is None:
+        print("No item found in RSS feed")
+        return 'No Title', 'No Link', 'No Description', None
+    
+    title = item.find('title').text if item.find('title') is not None else 'No Title'
+    link = item.find('link').text if item.find('link') is not None else 'No Link'
+    description = item.find('description').text if item.find('description') is not None else 'No Description'
     media_content = item.find('.//media:content')
     thumbnail_url = media_content.get('url') if media_content is not None else None
+    
+    print(f"Title: {title}")
+    print(f"Link: {link}")
+    print(f"Description: {description}")
+    print(f"Thumbnail URL: {thumbnail_url}")
+
     return title, link, description, thumbnail_url
 
 def download_thumbnail(thumbnail_url):
