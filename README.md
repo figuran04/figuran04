@@ -1,13 +1,16 @@
 <img src="https://komarev.com/ghpvc/?username=figuran04&label=Profile%20views&color=0e75b6&style=flat" alt="figuran04" align="right" />
-<img src="https://raw.githubusercontent.com/figuran04/figuran04/output/snake.svg" alt="Snake animation" />
+
+<h1 align="center">Hi 👋, I'm Dika</h1>
 
 > A passionate frontend developer from Indonesia
-<h1 align="center">Hi 👋, I'm Dika</h1>
+
 <div class="display:flex; justify: center; width:100%;" align="center">
   <img src="profile.gif" style="width:30%;"/>
 </div>
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=figuran04" alt="figuran04" /></a> </p>-->
+
+<img src="https://raw.githubusercontent.com/figuran04/figuran04/output/snake.svg" alt="Snake animation" />
 
 ![](https://github-profile-trophy.vercel.app/?username=figuran04&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
