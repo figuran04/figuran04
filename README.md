@@ -2,8 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Dika</h1>
 
-> A passionate frontend developer from Indonesia
-
 <div class="display:flex; justify: center; width:100%;" align="center">
   <img src="profile.gif" style="width:30%;"/>
 </div>
@@ -14,12 +12,7 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=figuran04&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-# Terbaru dari Medium
-
-![Medium Thumbnail](path-to-thumbnail.png)
-
-## [Title of the Latest Post](link-to-post)
-
+> A passionate frontend developer from Indonesia
 
 ### 🌐 Connect with me:
 <!--<p align="left">
