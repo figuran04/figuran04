@@ -14,15 +14,12 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=figuran04&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-<!--START_SECTION:medium-->
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <div>
-    <a href="https://medium.com/@dikaelsaputra/perangkat-jaringan-komputer-e84cc0f6655e?source=rss-272e0aace4a6------2" style="font-size: 1.2em; font-weight: bold;">Perangkat Jaringan Komputer</a>
-    <p><figure><img alt="" src="https://cdn-images-1.medium.com/max/720/1*Jf58zyahCnaAkJywoXBPJg.jpeg" /></figure><p>Jaringan komputer modern bergantung pada berbagai perangkat keras untuk menjaga koneksi ya...</p>
-  </div>
-</div>
+# Terbaru dari Medium
 
-<!--END_SECTION:medium-->
+![Medium Thumbnail](path-to-thumbnail.png)
+
+## [Title of the Latest Post](link-to-post)
+
 
 ### 🌐 Connect with me:
 <!--<p align="left">
