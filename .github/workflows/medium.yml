@@ -1,32 +1,33 @@
-name: Update README with Medium Posts
+name: Update medium
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron: '0 0 * * 0' 
-    
-permissions:
-  contents: write
-  
+    - cron: '0 0 * * *'  # Setiap hari jam 00:00 UTC
+  workflow_dispatch:
+
 jobs:
-  update-readme:
+  update:
     runs-on: ubuntu-latest
 
     steps:
     - name: Checkout repository
       uses: actions/checkout@v3
 
-    - name: Install Python and dependencies
-      run: |
-        sudo apt-get update
-        sudo apt-get install -y python3-pip
-        pip3 install feedparser
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.8'
 
-    - name: Run script to fetch and update posts in README
+    - name: Install dependencies
       run: |
-        python3 medium.py
-        git config --global user.name 'github-actions'
-        git config --global user.email 'actions@github.com'
-        git add README.md
-        git commit -m 'Update README with latest Medium posts'
-        git push
+        pip install requests pillow svgwrite
+
+    - name: Run script
+      run: python medium.py
+
+    - name: Commit and push changes
+      uses: EndBug/add-and-commit@v9
+      with:
+        author_name: 'GitHub Actions'
+        author_email: 'actions@github.com'
+        message: 'Update README with latest Medium post'
