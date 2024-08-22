@@ -51,7 +51,7 @@ The generated figure displays four charts side by side:
   <tr>
     <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/720/1*Jf58zyahCnaAkJywoXBPJg.jpeg" alt="Post Image" style="width: 100px; height: auto;"></td>
     <td style="border: 1px solid white; padding: 10px;">Perangkat Jaringan Komputer</td>
-    <td style="border: 1px solid white; padding: 10px; width: 300px;">Jaringan komputer modern bergantung pada berbagai perangkat keras untuk menjaga koneksi yang stabil, aman, dan efisien. Artikel ini akan membahas dasa...</td>
+    <td style="border: 1px solid white; padding: 10px; width: 300px;" width="300px">Jaringan komputer modern bergantung pada berbagai perangkat keras untuk menjaga koneksi yang stabil, aman, dan efisien. Artikel ini akan membahas dasa...</td>
     <td style="border: 1px solid white; padding: 10px;"><a href="https://medium.com/@dikaelsaputra/perangkat-jaringan-komputer-e84cc0f6655e?source=rss-272e0aace4a6------2" style="color: white; text-decoration: none;">Read More</a></td>
   </tr>
 </table>
