@@ -3,28 +3,28 @@
 ## Hey 👋, I'm Dika!
 
 <div align="left" style="display:flex; align-items:center; gap:5px;">
-  <a href="https://medium.com/@dikaelsaputra">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/dika-elsaputra-8a35462a7/">
+  <a href="https://www.linkedin.com/in/dika-elsaputra-8a35462a7/" style="text-decoration:none;">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> 
     <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  /> -->
 </a>
+  <a href="https://medium.com/@dikaelsaputra" style="text-decoration:none;">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
+  </a>
 </div>
 
-I am an adaptable person to different topics (Web Developer 🌐, App Developer  📱, Entry-level Designer 🎨) depending on what the project entails. I love exploring new tech stacks 💻 and leveraging them to build cool things 🛠️. 
+I am an adaptable person to different topics, Web Developer, App Developer, Entry-level Designer depending on what the project entails. I love exploring new tech stacks and leveraging them to build cool things. 
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/figuran04/figuran04/main/profile.gif" width="300px"/>
   
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently studying on **University**.
-- 🤝 &nbsp; I’m looking to collaborate on [nextanimejs](https://github.com/figuran04/nextanimejs).
+- 🤝 &nbsp; I’m looking to collaborate on [NextAnimeJS](https://github.com/figuran04/nextanimejs).
 - 🌱 &nbsp; I’m currently learning Typescript.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/figuran04?tab=repositories).
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help.
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/dika-elsaputra-8a35462a7/).
-- 📝 &nbsp; Checkout my [medium](#medium-post).
+- 📝 &nbsp; Checkout my [Medium](#medium-post).
 
 ### 📊 Visualizations
 
@@ -60,7 +60,7 @@ The generated figure displays four charts side by side:
 
 ### 🔧 Languages and Tools:
 
-<div align="left" style="display:flex; flex-wrap:wrap; gap:10px;">
+<div align="left" style="display:flex; flex-wrap:wrap; gap:20px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
