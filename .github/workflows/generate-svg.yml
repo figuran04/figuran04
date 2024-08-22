@@ -2,7 +2,7 @@ name: Generate SVG Reports
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '21 21 * * *'
   workflow_dispatch:
 
 jobs:
