@@ -20,7 +20,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install beautifulsoup4 feedparser
+          pip install beautifulsoup4 feedparser request
 
       - name: Run the Medium script
         run: |
