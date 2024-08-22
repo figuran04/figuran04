@@ -59,7 +59,7 @@ def update_readme(posts):
         new_content += '  <tr>\n'
         new_content += f'    <td style="border: 1px solid white; padding: 10px;"><img src="{image_url}" alt="Post Image" style="width: 100px; height: auto;"></td>\n' if image_url else '<td style="border: 1px solid white; padding: 10px;">No Image</td>\n'
         new_content += f'    <td style="border: 1px solid white; padding: 10px;">{escape(title)}</td>\n'
-        new_content += f'    <td style="border: 1px solid white; padding: 10px; width: 300px;">{escape(summary)}</td>\n'
+        new_content += f'    <td style="border: 1px solid white; padding: 10px; width: 300px;" width="300px">{escape(summary)}</td>\n'
         new_content += f'    <td style="border: 1px solid white; padding: 10px;"><a href="{link}" style="color: white; text-decoration: none;">Read More</a></td>\n'
         new_content += '  </tr>\n'
 
