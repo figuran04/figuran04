@@ -46,7 +46,8 @@ def update_readme(posts):
             end_idx = idx
 
     # Prepare new content
-    new_content = '<table style="width: 100%; border-collapse: collapse; color: white;">\n'
+    new_content = '<div style="overflow-x:auto;">\n'
+    new_content += '<table style="width: 100%; border-collapse: collapse; color: white;">\n'
     new_content += '  <tr>\n'
     new_content += '    <th style="border: 1px solid white; padding: 10px;">Image</th>\n'
     new_content += '    <th style="border: 1px solid white; padding: 10px;">Title</th>\n'
@@ -63,6 +64,7 @@ def update_readme(posts):
         new_content += '  </tr>\n'
 
     new_content += '</table>\n'    
+    new_content += '</div>\n'
 
     # If markers are found, replace the content in between
     if start_idx is not None and end_idx is not None:
