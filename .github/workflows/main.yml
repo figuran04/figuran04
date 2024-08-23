@@ -1,12 +1,15 @@
-name: Generate SVG Reports and Update Medium Posts
+name: Generate Reports, Snake Animation, and Update Medium Posts
 
 on:
   schedule:
     - cron: '21 21 * * *'  # Runs daily at 5 AM WIB
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
-  generate-svg:
+  generate-stats-and-medium:
     runs-on: ubuntu-latest
     steps:
       - name: Check out the repository
@@ -35,5 +38,26 @@ jobs:
           git add README.md *.png
           git commit -m "Update SVG reports and Medium posts"
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  generate-snake:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: generate snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: dist/snake.svg?palette=github-dark
+
+      - name: push snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
