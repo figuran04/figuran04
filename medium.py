@@ -46,7 +46,8 @@ def update_readme(posts):
             end_idx = idx
 
     # Prepare new content
-    new_content = '<div style="overflow-x:auto;">\n'
+    new_content = '\n'
+    new_content += '<div style="overflow-x:auto;">\n'
     new_content += '<table style="width: 100%; border-collapse: collapse; color: white;">\n'
     new_content += '  <tr>\n'
     new_content += '    <th style="border: 1px solid white; padding: 10px;">Image</th>\n'
@@ -60,12 +61,13 @@ def update_readme(posts):
         new_content += f'    <td style="border: 1px solid white; padding: 10px;"><img src="{image_url}" alt="Post Image" style="width: 100px; height: auto;"></td>\n' if image_url else '<td style="border: 1px solid white; padding: 10px;">No Image</td>\n'
         new_content += f'    <td style="border: 1px solid white; padding: 10px;">{escape(title)}</td>\n'
         new_content += f'    <td style="border: 1px solid white; padding: 10px;">{escape(summary)}</td>\n'
-        new_content += f'    <td style="border: 1px solid white; padding: 10px;"><a href="{link}" style="color: white; text-decoration: none;">Read More</a></td>\n'
+        new_content += f'    <td style="border: 1px solid white; padding: 10px;"><a href="{link}" target="_blank" style="color: white; text-decoration: none;">Read More</a></td>\n'
         new_content += '  </tr>\n'
 
     new_content += '</table>\n'    
     new_content += '</div>\n'
-
+    new_content = '\n'
+    
     # If markers are found, replace the content in between
     if start_idx is not None and end_idx is not None:
         updated_content = readme_content[:start_idx + 1] + [new_content] + readme_content[end_idx:]
