@@ -69,5 +69,7 @@ The generated figure displays four charts side by side:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30" alt="markdown logo"  />
 </div>
 
+### Contributions
+
 ![Snake animation](https://raw.githubusercontent.com/figuran04/figuran04/output/snake.svg)
 
