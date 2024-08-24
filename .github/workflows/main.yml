@@ -35,12 +35,8 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          if [ -n "$(git status --porcelain)" ]; then
-            git add README.md *.png
-            git commit -m "Update SVG reports and Medium posts"
-            git push
-          else
-            echo "No changes detected, skipping commit."
-          fi
+          git add README.md *.png
+          git commit -m "Update png reports and Medium posts"
+          git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
