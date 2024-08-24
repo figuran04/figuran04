@@ -1,15 +1,12 @@
-name: GitHub Profile Workflow
+name: Run Stats
 
 on:
-  push:
-    branches:
-      - main
   schedule:
     - cron: '21 21 * * *'
   workflow_dispatch:
 
 jobs:
-  run-scripts:
+  build:
     runs-on: ubuntu-latest
 
     steps:
@@ -19,25 +16,18 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
-        python-version: '3.9'
+        python-version: '3.x'
 
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install requests matplotlib feedparser beautifulsoup4
+        pip install requests matplotlib
 
-    - name: Run main.py
+    - name: Run Stats
       run: python main.py
 
-    - name: Run medium.py
-      run: |
-           python medium.py || echo "Medium script failed"
-
-
-    - name: Commit changes
-      run: |
-        git config --global user.name 'GitHub Actions'
-        git config --global user.email 'github-actions@github.com'
-        git add .
-        git commit -m "Update GitHub stats and Medium feed"
-        git push origin main || echo "Error"
+    - name: Upload results
+      uses: actions/upload-artifact@v3
+      with:
+        name: github_stats
+        path: github_stats.png
