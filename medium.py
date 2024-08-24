@@ -66,7 +66,7 @@ def update_readme(posts):
 
     new_content += '</table>\n'    
     new_content += '</div>\n'
-    new_content = '\n'
+    new_content += '\n'
     
     # If markers are found, replace the content in between
     if start_idx is not None and end_idx is not None:
