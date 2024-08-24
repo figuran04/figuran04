@@ -40,28 +40,7 @@ The generated figure displays four charts side by side:
 ### ⚫ Medium Post
 
 <!--START_SECTION:medium-->
-<div style="overflow-x:auto;">
-<table style="width: 100%; border-collapse: collapse; color: white;">
-  <tr>
-    <th style="border: 1px solid white; padding: 10px;">Image</th>
-    <th style="border: 1px solid white; padding: 10px;">Title</th>
-    <th style="border: 1px solid white; padding: 10px;">Summary</th>
-    <th style="border: 1px solid white; padding: 10px;">Link</th>
-  </tr>
-  <tr>
-    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/1024/0*YOvLLbo6fOQrxK9N" alt="Post Image" style="width: 100px; height: auto;"></td>
-    <td style="border: 1px solid white; padding: 10px;">Tutorial Github</td>
-    <td style="border: 1px solid white; padding: 10px; width: 300px;" width="300px">Tutorial Github— Pemrograman Berorientasi Objek (OOP)Photo by Roman Synkevych on UnsplashGitHub adalah layanan hos web bersama untuk proyek pengembang...</td>
-    <td style="border: 1px solid white; padding: 10px;"><a href="https://medium.com/@dikaelsaputra/tutorial-github-29057912a19c?source=rss-272e0aace4a6------2" style="color: white; text-decoration: none;">Read More</a></td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/720/1*Jf58zyahCnaAkJywoXBPJg.jpeg" alt="Post Image" style="width: 100px; height: auto;"></td>
-    <td style="border: 1px solid white; padding: 10px;">Perangkat Jaringan Komputer</td>
-    <td style="border: 1px solid white; padding: 10px; width: 300px;" width="300px">Perangkat Jaringan Komputer — Jaringan KomputerJaringan komputer modern bergantung pada berbagai perangkat keras untuk menjaga koneksi yang stabil, am...</td>
-    <td style="border: 1px solid white; padding: 10px;"><a href="https://medium.com/@dikaelsaputra/perangkat-jaringan-komputer-e84cc0f6655e?source=rss-272e0aace4a6------2" style="color: white; text-decoration: none;">Read More</a></td>
-  </tr>
-</table>
-</div>
+
 <!--END_SECTION:medium-->
 
 ### 🔧 Languages and Tools:
