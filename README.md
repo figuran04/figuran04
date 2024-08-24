@@ -40,7 +40,6 @@ The generated figure displays four charts side by side:
 ### ⚫ Medium Post
 
 <!--START_SECTION:medium-->
-
 <!--END_SECTION:medium-->
 
 ### 🔧 Languages and Tools:
