@@ -50,6 +50,12 @@ The generated figure displays four charts side by side:
     <th style="border: 1px solid white; padding: 10px;">Link</th>
   </tr>
   <tr>
+    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/1024/0*OzJLuQU8hz1EsbYa.jpg" alt="Post Image" style="width: 100px; height: auto;"></td>
+    <td style="border: 1px solid white; padding: 10px;">Panduan Lengkap PySpark dan Pandas: Instalasi, Praktik Dasar, dan Lanjutan</td>
+    <td style="border: 1px solid white; padding: 10px;">Panduan Lengkap PySpark dan Pandas: Instalasi, Praktik Dasar, dan Lanjutan — Big Datahttps://media.alkhairaat.id/wp-content/u...</td>
+    <td style="border: 1px solid white; padding: 10px;"><a href="https://medium.com/@dikaelsaputra/panduan-lengkap-pyspark-dan-pandas-instalasi-praktik-dasar-dan-lanjutan-86ab9ce4ea55?source=rss-272e0aace4a6------2" target="_blank" style="color: white; text-decoration: none;">Read More</a></td>
+  </tr>
+  <tr>
     <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/1024/0*YOvLLbo6fOQrxK9N" alt="Post Image" style="width: 100px; height: auto;"></td>
     <td style="border: 1px solid white; padding: 10px;">Tutorial Github</td>
     <td style="border: 1px solid white; padding: 10px;">Tutorial Github— Pemrograman Berorientasi Objek (OOP)Photo by Roman Synkevych on UnsplashTutorial ini menjelaskan langkah-lan...</td>
