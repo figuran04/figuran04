@@ -1,42 +1,38 @@
-name: Generate Reports and Update Medium Posts
+name: Update GitHub Stats and Medium Posts
 
 on:
   schedule:
-    - cron: '21 21 * * *'  # Runs daily at 5 AM WIB
-  workflow_dispatch:
-  push:
-    branches:
-      - main
+    - cron: '21 21 * * *'
+  workflow_dispatch: # Jalankan secara manual
 
 jobs:
-  generate-stats-and-medium:
+  update:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Check out the repository
-        uses: actions/checkout@v3
+    - name: Checkout repository
+      uses: actions/checkout@v3
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.x'
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
 
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install requests matplotlib numpy timedelta DateTime beautifulsoup4 pandas feedparser
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install matplotlib requests feedparser beautifulsoup4
 
-      - name: Generate Statistic
-        run: python main.py
+    - name: Generate GitHub stats
+      run: python main.py
 
-      - name: Run the Medium script
-        run: python medium.py
+    - name: Fetch Medium posts
+      run: python medium.py
 
-      - name: Commit and Push changes
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add README.md *.png
-          git commit -m "Update png reports and Medium posts"
-          git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - name: Commit and push changes
+      run: |
+        git config --local user.name "GitHub Actions"
+        git config --local user.email "actions@github.com"
+        git add .
+        git commit -m "Update GitHub stats and Medium posts"
+        git push
