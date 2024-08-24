@@ -1,4 +1,4 @@
-name: Generate Stats Reports
+name: Update GitHub Stats and Medium Posts
 
 on:
   schedule:
@@ -6,34 +6,31 @@ on:
   workflow_dispatch:
 
 jobs:
-  generate-stats:
+  build:
     runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository content
-        uses: actions/checkout@v4
 
-      - name: Set up Python
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python 3.10
         uses: actions/setup-python@v4
         with:
-          python-version: '3.x'
+          python-version: '3.10'
 
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install matplotlib requests feedparser beautifulsoup4
+      - name: Install Dependencies
+        run: pip install -r requirements.txt
 
-      - name: Generate main
+      - name: Run GitHub Stats Script
         run: python main.py
 
-      - name: Generate medium
+      - name: Run Medium Post Script
         run: python medium.py
 
-      - name: Commit and Push changes
+      - name: Commit and Push Changes
         run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add *.png
-          git commit -m "Update png reports"
+          git config --local user.name "GitHub Actions"
+          git config --local user.email "dikaelsaputra2406@gmail.com"
+          git add -A
+          git commit -m "Update GitHub Stats and Medium Posts" || echo "No changes to commit"
           git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
