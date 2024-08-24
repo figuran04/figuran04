@@ -1,4 +1,4 @@
-name: Run Stats
+name: Run Python Scripts
 
 on:
   schedule:
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  run-scripts:
     runs-on: ubuntu-latest
 
     steps:
@@ -23,11 +23,20 @@ jobs:
         python -m pip install --upgrade pip
         pip install requests matplotlib
 
-    - name: Run Stats
+    - name: Run main.py
       run: python main.py
 
-    - name: Upload results
+    - name: Upload GitHub Stats PNG
       uses: actions/upload-artifact@v3
       with:
         name: github_stats
         path: github_stats.png
+
+    - name: Run medium.py
+      run: python medium.py
+
+    - name: Commit updated README
+      uses: EndBug/add-and-commit@v9
+      with:
+        add: 'README.md'
+        message: 'Update Medium posts in README'
