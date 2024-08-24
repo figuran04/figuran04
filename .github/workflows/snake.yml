@@ -2,27 +2,33 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    # At 21:00 on every day-of-week from Monday through Friday.
-    - cron: "0 21 * * 1-5"
-  workflow_dispatch:
+    - cron: "21 21 * * *"
+  workflow_dispatch: # Memungkinkan eksekusi manual kapan saja
+  push:
+    branches:
+      - main # Menjalankan saat ada push ke branch main
 
 jobs:
-  build:
+  generate:
+    permissions:
+      contents: write # Izin untuk menulis konten (dibutuhkan untuk push)
     runs-on: ubuntu-latest
+    timeout-minutes: 5 # Waktu maksimum untuk menjalankan job adalah 5 menit
+
     steps:
       - name: Checkout repository content
         uses: actions/checkout@v3
 
-      - name: Generate snake animation
-        uses: Platane/snk@v3
+      - name: Generate Snake Animation SVG
+        uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: figuran04
-          outputs: dist/snake.svg
-          color_snake: dark
+          github_user_name: ${{ github.repository_owner }} # Menggunakan nama user dari repository owner
+          outputs: dist/snake.svg?palette=github-dark # Menentukan palet warna dark GitHub
 
-      - name: Push the generated snake.svg to the output branch
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Push snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: output
-          publish_dir: dist
+          target_branch: output # Menggunakan branch output untuk menyimpan SVG
+          build_dir: dist # Direktori tempat snake.svg disimpan
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Token untuk otorisasi push
