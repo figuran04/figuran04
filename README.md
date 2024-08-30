@@ -51,8 +51,8 @@ The generated figure displays four charts side by side:
   </tr>
   <tr>
     <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/474/0*BWItY67aRRp2BGLO" alt="Post Image" style="width: 100px; height: auto;"></td>
-    <td style="border: 1px solid white; padding: 10px;">Cara Instalasi NetBeans IDE di Windows</td>
-    <td style="border: 1px solid white; padding: 10px;">https://th.bing.com/th/id/OIP.3xvVolxc10ethixLIsXRGAHaEc?rs=1&amp;pid=ImgDetMainJava dikembangkan oleh James Gosling dan timnya d...</td>
+    <td style="border: 1px solid white; padding: 10px;">Instalasi NetBeans IDE di Windows</td>
+    <td style="border: 1px solid white; padding: 10px;">Java dikembangkan oleh James Gosling dan timnya di Sun Microsystems pada tahun 1991. Awalnya bernama Oak, kemudian diganti me...</td>
     <td style="border: 1px solid white; padding: 10px;"><a href="https://medium.com/@dikaelsaputra/cara-instal-netbeans-ide-di-windows-7e29e0815459?source=rss-272e0aace4a6------2" target="_blank" style="color: white; text-decoration: none;">Read More</a></td>
   </tr>
   <tr>
