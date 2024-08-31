@@ -50,27 +50,33 @@ The generated figure displays four charts side by side:
     <th style="border: 1px solid white; padding: 10px;">Link</th>
   </tr>
   <tr>
+    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/474/0*Geu43XOI_mJYcLm3" alt="Post Image" style="width: 100px; height: auto;"></td>
+    <td style="border: 1px solid white; padding: 10px;">Instalasi Kabel Jaringan &amp; Konfigurasi IP Address</td>
+    <td style="border: 1px solid white; padding: 10px;">Dalam dunia jaringan komputer, pemasangan kabel jaringan adalah salah satu langkah penting untuk memastikan komunikasi yang e...</td>
+    <td style="border: 1px solid white; padding: 10px;"><a href="https://medium.com/@dikaelsaputra/instalasi-kabel-jaringan-konfigurasi-ip-address-b034228e439d?source=rss-272e0aace4a6------2" target="_blank" style="color: white; text-decoration: none;">Read More</a></td>
+  </tr>
+  <tr>
     <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/474/0*BWItY67aRRp2BGLO" alt="Post Image" style="width: 100px; height: auto;"></td>
     <td style="border: 1px solid white; padding: 10px;">Instalasi NetBeans IDE di Windows</td>
-    <td style="border: 1px solid white; padding: 10px;">Java dikembangkan oleh James Gosling dan timnya di Sun Microsystems pada tahun 1991. Awalnya bernama Oak, kemudian diganti me...</td>
+    <td style="border: 1px solid white; padding: 10px;">Instalasi NetBeans IDE di Windows: Dari Instalasi JDK Hingga Projek PertamaJava dikembangkan oleh James Gosling dan timnya di...</td>
     <td style="border: 1px solid white; padding: 10px;"><a href="https://medium.com/@dikaelsaputra/cara-instal-netbeans-ide-di-windows-7e29e0815459?source=rss-272e0aace4a6------2" target="_blank" style="color: white; text-decoration: none;">Read More</a></td>
   </tr>
   <tr>
-    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/1024/0*OzJLuQU8hz1EsbYa.jpg" alt="Post Image" style="width: 100px; height: auto;"></td>
+    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/1024/0*kFqe2gOPxUev0_Op.png" alt="Post Image" style="width: 100px; height: auto;"></td>
     <td style="border: 1px solid white; padding: 10px;">Instalasi Anaconda, Praktik Dasar, dan Lanjutan</td>
-    <td style="border: 1px solid white; padding: 10px;">Instalasi Anaconda, Praktik Dasar, dan Lanjutan — Big Datahttps://media.alkhairaat.id/wp-content/uploads/2020/10/bigdata.jpgD...</td>
+    <td style="border: 1px solid white; padding: 10px;">Instalasi Anaconda, Praktik Dasar, dan Lanjutan : Instalasi Pyspark dan Pandas - Big DataDalam era data yang berkembang pesat...</td>
     <td style="border: 1px solid white; padding: 10px;"><a href="https://medium.com/@dikaelsaputra/panduan-lengkap-pyspark-dan-pandas-instalasi-praktik-dasar-dan-lanjutan-86ab9ce4ea55?source=rss-272e0aace4a6------2" target="_blank" style="color: white; text-decoration: none;">Read More</a></td>
   </tr>
   <tr>
-    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/1024/0*YOvLLbo6fOQrxK9N" alt="Post Image" style="width: 100px; height: auto;"></td>
-    <td style="border: 1px solid white; padding: 10px;">Cara Menggunakan Git dan Github</td>
-    <td style="border: 1px solid white; padding: 10px;">Tutorial Github— Pemrograman Berorientasi Objek (OOP)&gt; Github repositoryPhoto by Roman Synkevych on UnsplashTutorial ini menj...</td>
+    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/720/1*UGGzvLdzKq4uj1pNrXdo0Q.png" alt="Post Image" style="width: 100px; height: auto;"></td>
+    <td style="border: 1px solid white; padding: 10px;">Konfigurasi Git dan SSH Key Github</td>
+    <td style="border: 1px solid white; padding: 10px;">Konfigurasi Git dan SSH Key Github: Instalasi Hingga Push RepositoryTutorial ini menjelaskan langkah-langkah dasar untuk meng...</td>
     <td style="border: 1px solid white; padding: 10px;"><a href="https://medium.com/@dikaelsaputra/tutorial-github-29057912a19c?source=rss-272e0aace4a6------2" target="_blank" style="color: white; text-decoration: none;">Read More</a></td>
   </tr>
   <tr>
-    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/720/1*Jf58zyahCnaAkJywoXBPJg.jpeg" alt="Post Image" style="width: 100px; height: auto;"></td>
-    <td style="border: 1px solid white; padding: 10px;">Alat-Alat Jaringan Komputer</td>
-    <td style="border: 1px solid white; padding: 10px;">Pengantar Jaringan Komputer dan Alat-Alat Jaringan KomputerJaringan komputer modern bergantung pada berbagai perangkat keras ...</td>
+    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/690/1*CnN15TBuURfxvwtFmBQrNQ.png" alt="Post Image" style="width: 100px; height: auto;"></td>
+    <td style="border: 1px solid white; padding: 10px;">10 Perangkat Utama Jaringan Komputer</td>
+    <td style="border: 1px solid white; padding: 10px;">10 Perangkat Utama Jaringan Komputer: Fungsi dan Prinsip KerjaJaringan komputer modern bergantung pada berbagai perangkat ker...</td>
     <td style="border: 1px solid white; padding: 10px;"><a href="https://medium.com/@dikaelsaputra/perangkat-jaringan-komputer-e84cc0f6655e?source=rss-272e0aace4a6------2" target="_blank" style="color: white; text-decoration: none;">Read More</a></td>
   </tr>
 </table>
