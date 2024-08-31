@@ -26,7 +26,7 @@ I am an adaptable person to different topics, Web Developer, App Developer, Entr
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/dika-elsaputra-8a35462a7/).
 - 📝 &nbsp; Checkout my [Medium](#medium-post).
 
-### 📊 Visualizations
+### Visualizations
 
 The generated figure displays four charts side by side:
 
@@ -37,7 +37,7 @@ The generated figure displays four charts side by side:
 3. **Top Languages**: A pie chart showing the distribution of the top programming languages used across all repositories.
 4. **Commits per Month**: A line chart showing the number of commits over the past 12 months, up to the current month.
 
-### ⚫ Medium Post
+### Medium Post
 
 <!--START_SECTION:medium-->
 
@@ -78,7 +78,7 @@ The generated figure displays four charts side by side:
 
 <!--END_SECTION:medium-->
 
-### 🔧 Languages and Tools:
+### Languages and Tools:
 
 <div align="left" style="display:flex; flex-wrap:wrap; gap:20px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
