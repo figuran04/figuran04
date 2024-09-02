@@ -48,6 +48,10 @@ The generated figure displays four charts side by side:
     <th style="border: 1px solid white; padding: 10px;">Summary</th>
   </tr>
   <tr>
+    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/700/0*N4ybCsS4TUFsX5sU.jpg" alt="Post Image" style="width: 100px; height: auto;" /><br /><a href="https://medium.com/@dikaelsaputra/instalasi-dan-konfigurasi-hadoop-serta-spark-di-windows-f7f3582def93?source=rss-272e0aace4a6------2" target="_blank" style="color: white; text-decoration: none;">Instalasi dan Konfigurasi Hadoop serta Spark di Windows</a></td>
+    <td style="border: 1px solid white; padding: 10px;">Instalasi dan Konfigurasi Hadoop serta Spark di Windows: Instalasi JDK Hingga Integrasi Hadoop dengan SparkHadoop dan Spark adalah dua kompo...</td>
+  </tr>
+  <tr>
     <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/474/0*Geu43XOI_mJYcLm3" alt="Post Image" style="width: 100px; height: auto;" /><br /><a href="https://medium.com/@dikaelsaputra/instalasi-kabel-jaringan-konfigurasi-ip-address-b034228e439d?source=rss-272e0aace4a6------2" target="_blank" style="color: white; text-decoration: none;">Instalasi Kabel Jaringan &amp; Konfigurasi IP Address</a></td>
     <td style="border: 1px solid white; padding: 10px;">Dalam dunia jaringan komputer, pemasangan kabel jaringan adalah salah satu langkah penting untuk memastikan komunikasi yang efektif antara p...</td>
   </tr>
