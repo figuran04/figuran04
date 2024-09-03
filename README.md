@@ -45,27 +45,27 @@ The generated figure displays four charts side by side:
 <table style="width: 100%; border-collapse: collapse; color: white;">
   <tr>
     <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/instalasi-dan-konfigurasi-hadoop-serta-spark-di-windows-f7f3582def93?source=rss-272e0aace4a6------2" target="_blank" style="color: white; text-decoration: none;">Instalasi dan Konfigurasi Hadoop serta Spark di Windows</a></h3><p>Instalasi dan Konfigurasi Hadoop serta Spark di Windows: Instalasi JDK Hingga Integrasi Hadoop denga...</p></td>
-    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/700/0*N4ybCsS4TUFsX5sU.jpg" alt="Post Image" style="width: 100px; height: 75px; object-fit: cover;" /></td>
+    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/700/0*N4ybCsS4TUFsX5sU.jpg" alt="Post Image" style="width: 100px; height: auto;" /></td>
   </tr>
   <tr>
     <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/instalasi-kabel-jaringan-konfigurasi-ip-address-b034228e439d?source=rss-272e0aace4a6------2" target="_blank" style="color: white; text-decoration: none;">Instalasi Kabel Jaringan &amp; Konfigurasi IP Address</a></h3><p>Dalam dunia jaringan komputer, pemasangan kabel jaringan adalah salah satu langkah penting untuk mem...</p></td>
-    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/474/0*Geu43XOI_mJYcLm3" alt="Post Image" style="width: 100px; height: 75px; object-fit: cover;" /></td>
+    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/474/0*Geu43XOI_mJYcLm3" alt="Post Image" style="width: 100px; height: auto;" /></td>
   </tr>
   <tr>
     <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/cara-instal-netbeans-ide-di-windows-7e29e0815459?source=rss-272e0aace4a6------2" target="_blank" style="color: white; text-decoration: none;">Instalasi NetBeans IDE di Windows</a></h3><p>Instalasi NetBeans IDE di Windows: Instalasi JDK Hingga Projek PertamaJava dikembangkan oleh James G...</p></td>
-    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/474/0*BWItY67aRRp2BGLO" alt="Post Image" style="width: 100px; height: 75px; object-fit: cover;" /></td>
+    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/474/0*BWItY67aRRp2BGLO" alt="Post Image" style="width: 100px; height: auto;" /></td>
   </tr>
   <tr>
     <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/panduan-lengkap-pyspark-dan-pandas-instalasi-praktik-dasar-dan-lanjutan-86ab9ce4ea55?source=rss-272e0aace4a6------2" target="_blank" style="color: white; text-decoration: none;">Instalasi Anaconda, Praktik Dasar, dan Lanjutan</a></h3><p>Instalasi Anaconda, Praktik Dasar, dan Lanjutan : Instalasi Pyspark dan Pandas - Big DataDalam era d...</p></td>
-    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/1024/0*kFqe2gOPxUev0_Op.png" alt="Post Image" style="width: 100px; height: 75px; object-fit: cover;" /></td>
+    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/1024/0*kFqe2gOPxUev0_Op.png" alt="Post Image" style="width: 100px; height: auto;" /></td>
   </tr>
   <tr>
     <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/tutorial-github-29057912a19c?source=rss-272e0aace4a6------2" target="_blank" style="color: white; text-decoration: none;">Konfigurasi Git dan SSH Key Github</a></h3><p>Konfigurasi Git dan SSH Key Github: Instalasi Hingga Push RepositoryTutorial ini menjelaskan langkah...</p></td>
-    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/720/1*UGGzvLdzKq4uj1pNrXdo0Q.png" alt="Post Image" style="width: 100px; height: 75px; object-fit: cover;" /></td>
+    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/720/1*UGGzvLdzKq4uj1pNrXdo0Q.png" alt="Post Image" style="width: 100px; height: auto;" /></td>
   </tr>
   <tr>
     <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/perangkat-jaringan-komputer-e84cc0f6655e?source=rss-272e0aace4a6------2" target="_blank" style="color: white; text-decoration: none;">10 Perangkat Utama Jaringan Komputer</a></h3><p>10 Perangkat Utama Jaringan Komputer: Fungsi dan Prinsip KerjaJaringan komputer modern bergantung pa...</p></td>
-    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/690/1*CnN15TBuURfxvwtFmBQrNQ.png" alt="Post Image" style="width: 100px; height: 75px; object-fit: cover;" /></td>
+    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/690/1*CnN15TBuURfxvwtFmBQrNQ.png" alt="Post Image" style="width: 100px; height: auto;" /></td>
   </tr>
 </table>
 </div>
