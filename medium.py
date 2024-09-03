@@ -21,7 +21,7 @@ def fetch_medium_posts(feed_url, num_posts=10):
         image_url = img_tag['src'] if img_tag else None
 
         # Mengambil summary dengan maksimal 140 karakter
-        summary = soup.get_text()[:140] + '...' if len(soup.get_text()) > 140 else soup.get_text()
+        summary = soup.get_text()[:100] + '...' if len(soup.get_text()) > 100 else soup.get_text()
 
         posts.append((title, link, image_url, summary))
 
@@ -48,15 +48,11 @@ def update_readme(posts):
     new_content = '\n'
     new_content += '<div style="overflow-x:auto;">\n'
     new_content += '<table style="width: 100%; border-collapse: collapse; color: white;">\n'
-    new_content += '  <tr>\n'
-    new_content += '    <th style="border: 1px solid white; padding: 10px;">Title</th>\n'
-    new_content += '    <th style="border: 1px solid white; padding: 10px;">Summary</th>\n'
-    new_content += '  </tr>\n'
 
     for title, link, image_url, summary in posts:
         new_content += '  <tr>\n'
-        new_content += f'    <td style="border: 1px solid white; padding: 10px;"><img src="{image_url}" alt="Post Image" style="width: 100px; height: auto;" /><br /><a href="{link}" target="_blank" style="color: white; text-decoration: none;">{escape(title)}</a></td>\n'
-        new_content += f'    <td style="border: 1px solid white; padding: 10px;">{escape(summary)}</td>\n'
+        new_content += f'    <td style="border: 1px solid white; padding: 10px;"><h3><a href="{link}" target="_blank" style="color: white; text-decoration: none;">{escape(title)}</a></h3><p>{escape(summary)}</p></td>\n'
+        new_content += f'    <td style="border: 1px solid white; padding: 10px;"><img src="{image_url}" alt="Post Image" style="width: 100px; height: 75px; object-fit: cover;" /></td>\n'
         new_content += '  </tr>\n'
 
     new_content += '</table>\n'    
