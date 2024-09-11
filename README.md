@@ -48,6 +48,10 @@ The generated figure displays four charts side by side:
     <th style="border: 1px solid white; padding: 10px;">Thumbnail</th>
   </tr>
   <tr>
+    <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/implementasi-mapreduce-hadoop-sederhana-b413cfc67f5c?source=rss-272e0aace4a6------2" target="_blank" style="color: white; text-decoration: none;">Implementasi MapReduce Hadoop Sederhana</a></h3><p>Implementasi MapReduce Hadoop Sederhana: Python hingga Hadoop Dataset BesarMapReduce adalah model pe...</p></td>
+    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/740/1*EDZMmI15hqMc5gyH8OgZlA.png" alt="Post Image" style="width: 100px; height: auto;" /></td>
+  </tr>
+  <tr>
     <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/cisco-packet-tracer-instalasi-serta-praktik-dasar-routing-dan-switching-57c7df570834?source=rss-272e0aace4a6------2" target="_blank" style="color: white; text-decoration: none;">Instalasi Cisco Packet Tracer</a></h3><p>Cisco Packet Tracer: Instalasi Serta Praktik Dasar Routing dan SwitchingPada era digital saat ini, j...</p></td>
     <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/741/1*TtnvlU2k5vZyJNqzzs_BjQ.png" alt="Post Image" style="width: 100px; height: auto;" /></td>
   </tr>
