@@ -49,6 +49,10 @@ The generated figure displays four charts side by side:
     <th style="border: 1px solid white; padding: 10px;">Thumbnail</th>
   </tr>
   <tr>
+    <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/enkapsulasi-dan-akses-modifier-2157af7cf274?source=rss-272e0aace4a6------2" target="_blank" style="color: white; text-decoration: none;">Enkapsulasi dan Akses Modifier</a></h3><p>Enkapsulasi dan Akses Modifier dalam Pemrograman Berorientasi ObjekDalam pemrograman berorientasi ob...</p></td>
+    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/827/1*sUycVMDsajgARsD8W1t4uw.png" alt="Post Image" style="width: 100px; height: auto;" /></td>
+  </tr>
+  <tr>
     <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/implementasi-mapreduce-hadoop-sederhana-b413cfc67f5c?source=rss-272e0aace4a6------2" target="_blank" style="color: white; text-decoration: none;">Implementasi MapReduce Hadoop Sederhana</a></h3><p>Implementasi MapReduce Hadoop Sederhana: Python hingga Hadoop Dataset BesarMapReduce adalah model pe...</p></td>
     <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/740/1*EDZMmI15hqMc5gyH8OgZlA.png" alt="Post Image" style="width: 100px; height: auto;" /></td>
   </tr>
