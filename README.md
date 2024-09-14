@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=figuran04&label=Profile%20views&color=6e44ff&style=flat" alt="figuran04" align="right" />
+<!-- <img src="https://komarev.com/ghpvc/?username=figuran04&label=Profile%20views&color=6e44ff&style=flat" alt="figuran04" align="right" /> -->
 
 ## Hey 👋, I'm Dika!
 
@@ -10,6 +10,7 @@
   <a href="https://medium.com/@dikaelsaputra" style="text-decoration:none;">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=figuran04&label=Profile%20views&color=6e44ff&style=for-the-badge&abbreviated=true&label=👀" height="35" alt="profile views"  />
 </div>
 
 I am an adaptable person to different topics, Web Developer, App Developer, Entry-level Designer depending on what the project entails. I love exploring new tech stacks and leveraging them to build cool things. 
