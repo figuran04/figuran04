@@ -75,6 +75,10 @@ The generated figure displays four charts side by side:
     <th style="border: 1px solid white; padding: 10px;">Thumbnail</th>
   </tr>
   <tr>
+    <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/ekosistem-hadoop-pig-dan-hive-43b48d369828?source=rss-272e0aace4a6------2" target="_blank" style="color: white; text-decoration: none;">Ekosistem Hadoop — Pig dan Hive</a></h3><p>Ekosistem Hadoop — Pig dan Hive: Instalasi Hingga Praktik KeduanyaDalam dunia Big Data, Pig dan Hive...</p></td>
+    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/737/0*PjA-uKUaZo8q579w.png" alt="Post Image" style="width: 100px; height: auto;" /></td>
+  </tr>
+  <tr>
     <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/enkapsulasi-dan-akses-modifier-2157af7cf274?source=rss-272e0aace4a6------2" target="_blank" style="color: white; text-decoration: none;">Enkapsulasi dan Akses Modifier</a></h3><p>Enkapsulasi dan Akses Modifier dalam Pemrograman Berorientasi ObjekDalam pemrograman berorientasi ob...</p></td>
     <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/827/1*sUycVMDsajgARsD8W1t4uw.png" alt="Post Image" style="width: 100px; height: auto;" /></td>
   </tr>
@@ -109,10 +113,6 @@ The generated figure displays four charts side by side:
   <tr>
     <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/tutorial-github-29057912a19c?source=rss-272e0aace4a6------2" target="_blank" style="color: white; text-decoration: none;">Konfigurasi Git dan SSH Key Github</a></h3><p>Konfigurasi Git dan SSH Key Github: Instalasi Hingga Push RepositoryTutorial ini menjelaskan langkah...</p></td>
     <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/720/1*UGGzvLdzKq4uj1pNrXdo0Q.png" alt="Post Image" style="width: 100px; height: auto;" /></td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/perangkat-jaringan-komputer-e84cc0f6655e?source=rss-272e0aace4a6------2" target="_blank" style="color: white; text-decoration: none;">10 Perangkat Utama Jaringan Komputer</a></h3><p>10 Perangkat Utama Jaringan Komputer: Fungsi dan Prinsip KerjaJaringan komputer modern bergantung pa...</p></td>
-    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/690/1*CnN15TBuURfxvwtFmBQrNQ.png" alt="Post Image" style="width: 100px; height: auto;" /></td>
   </tr>
 </table>
 </div>
