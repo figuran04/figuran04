@@ -68,6 +68,10 @@ The generated figure displays four charts side by side:
     <th style="border: 1px solid white; padding: 10px;">Thumbnail</th>
   </tr>
   <tr>
+    <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/inheritance-dalam-java-2145648ad259?source=rss-272e0aace4a6------2" target="_blank" style="color: white; text-decoration: none;">Inheritance dalam Java</a></h3><p>Inheritance dalam Java: Membuat Kelas TurunanInheritance atau pewarisan adalah salah satu konsep das...</p></td>
+    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/1024/0*j228EAaH0-pIXt2y.jpg" alt="Post Image" style="width: 100px; height: auto;" /></td>
+  </tr>
+  <tr>
     <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/dhcp-dan-nat-pada-cisco-packet-tracer-781b1ea15692?source=rss-272e0aace4a6------2" target="_blank" style="color: white; text-decoration: none;">DHCP dan NAT pada Cisco Packet Tracer</a></h3><p>Dalam dunia jaringan, dua konsep fundamental yang sering digunakan adalah DHCP (Dynamic Host Configu...</p></td>
     <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/1024/0*hN4Qq1km84XKpfLJ" alt="Post Image" style="width: 100px; height: auto;" /></td>
   </tr>
@@ -102,10 +106,6 @@ The generated figure displays four charts side by side:
   <tr>
     <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/cara-instal-netbeans-ide-di-windows-7e29e0815459?source=rss-272e0aace4a6------2" target="_blank" style="color: white; text-decoration: none;">Instalasi NetBeans IDE di Windows</a></h3><p>Instalasi NetBeans IDE di Windows: Instalasi JDK Hingga Projek PertamaJava dikembangkan oleh James G...</p></td>
     <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/474/0*BWItY67aRRp2BGLO" alt="Post Image" style="width: 100px; height: auto;" /></td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/panduan-lengkap-pyspark-dan-pandas-instalasi-praktik-dasar-dan-lanjutan-86ab9ce4ea55?source=rss-272e0aace4a6------2" target="_blank" style="color: white; text-decoration: none;">Instalasi Anaconda, Praktik Dasar, dan Lanjutan</a></h3><p>Instalasi Anaconda, Praktik Dasar, dan Lanjutan : Instalasi Pyspark dan Pandas - Big DataDalam era d...</p></td>
-    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/1024/0*kFqe2gOPxUev0_Op.png" alt="Post Image" style="width: 100px; height: auto;" /></td>
   </tr>
 </table>
 </div>
