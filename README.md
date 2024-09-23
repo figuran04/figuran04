@@ -2,16 +2,9 @@
 
 ## Hey 👋, I'm Dika!
 
-<div align="left" style="display:flex; align-items:center; gap:5px;">
-  <a href="https://www.linkedin.com/in/dika-elsaputra-8a35462a7/" style="text-decoration:none;">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> 
-    <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  /> -->
-</a>
-  <a href="https://medium.com/@dikaelsaputra" style="text-decoration:none;">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=figuran04&label=Profile%20views&color=6e44ff&style=for-the-badge&abbreviated=true" height="35" alt="profile views"  />
-</div>
+![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&link=https%3A%2F%2Fmedium.com%2F%40dikaelsaputra)
+![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdika-elsaputra-8a35462a7%2F)
+![Peofile view](https://komarev.com/ghpvc/?username=figuran04&color=0A66C2&style=for-the-badge&abbreviated=true)
 
 I am an adaptable person to different topics, Web Developer, App Developer, Entry-level Designer depending on what the project entails. I love exploring new tech stacks and leveraging them to build cool things. 
 
