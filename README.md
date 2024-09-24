@@ -68,6 +68,10 @@ The generated figure displays four charts side by side:
     <th style="border: 1px solid white; padding: 10px;">Thumbnail</th>
   </tr>
   <tr>
+    <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/tutorial-lengkap-mongodb-atlas-dengan-mongodb-compass-d3b015cf4712?source=rss-272e0aace4a6------2" target="_blank" style="color: white; text-decoration: none;">Tutorial Lengkap MongoDB Atlas dengan MongoDB Compass</a></h3><p>MongoDB adalah salah satu database NoSQL paling populer yang menawarkan fleksibilitas dalam mengelol...</p></td>
+    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/1024/0*3popFOVhE-XGVntI" alt="Post Image" style="width: 100px; height: auto;" /></td>
+  </tr>
+  <tr>
     <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/inheritance-dalam-java-2145648ad259?source=rss-272e0aace4a6------2" target="_blank" style="color: white; text-decoration: none;">Inheritance dalam Java</a></h3><p>Inheritance dalam Java: Membuat Kelas TurunanInheritance atau pewarisan adalah salah satu konsep das...</p></td>
     <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/1024/0*j228EAaH0-pIXt2y.jpg" alt="Post Image" style="width: 100px; height: auto;" /></td>
   </tr>
@@ -102,10 +106,6 @@ The generated figure displays four charts side by side:
   <tr>
     <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/instalasi-kabel-jaringan-konfigurasi-ip-address-b034228e439d?source=rss-272e0aace4a6------2" target="_blank" style="color: white; text-decoration: none;">Instalasi Kabel Jaringan &amp; Konfigurasi IP Address</a></h3><p>Dalam dunia jaringan komputer, pemasangan kabel jaringan adalah salah satu langkah penting untuk mem...</p></td>
     <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/474/0*Geu43XOI_mJYcLm3" alt="Post Image" style="width: 100px; height: auto;" /></td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/cara-instal-netbeans-ide-di-windows-7e29e0815459?source=rss-272e0aace4a6------2" target="_blank" style="color: white; text-decoration: none;">Instalasi NetBeans IDE di Windows</a></h3><p>Instalasi NetBeans IDE di Windows: Instalasi JDK Hingga Projek PertamaJava dikembangkan oleh James G...</p></td>
-    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/474/0*BWItY67aRRp2BGLO" alt="Post Image" style="width: 100px; height: auto;" /></td>
   </tr>
 </table>
 </div>
