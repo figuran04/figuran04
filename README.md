@@ -68,44 +68,16 @@ The generated figure displays four charts side by side:
     <th style="border: 1px solid white; padding: 10px;">Thumbnail</th>
   </tr>
   <tr>
+    <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/panduan-konfigurasi-jaringan-wireless-menggunakan-packet-tracer-a6af730e580e?source=rss-272e0aace4a6------2" target="_blank" style="color: white; text-decoration: none;">Panduan Konfigurasi Jaringan Wireless Menggunakan Packet Tracer</a></h3><p>Jaringan nirkabel (wireless network) telah menjadi standar dalam banyak lingkungan kerja modern. Kon...</p></td>
+    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/827/1*zXGSYvp6a0PfRDLII0ab7g.png" alt="Post Image" style="width: 100px; height: auto;" /></td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/polimorfisme-dalam-pemrograman-java-39890c0a08ea?source=rss-272e0aace4a6------2" target="_blank" style="color: white; text-decoration: none;">Polimorfisme dalam Pemrograman Java</a></h3><p>Polimorfisme adalah salah satu konsep penting dalam pemrograman berorientasi objek (OOP). Dalam Java...</p></td>
+    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/750/0*wiVfPfcjZr6ZlMIq.png" alt="Post Image" style="width: 100px; height: auto;" /></td>
+  </tr>
+  <tr>
     <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/tutorial-lengkap-mongodb-atlas-dengan-mongodb-compass-d3b015cf4712?source=rss-272e0aace4a6------2" target="_blank" style="color: white; text-decoration: none;">Tutorial Lengkap MongoDB Atlas dengan MongoDB Compass</a></h3><p>MongoDB adalah salah satu database NoSQL paling populer yang menawarkan fleksibilitas dalam mengelol...</p></td>
     <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/1024/0*3popFOVhE-XGVntI" alt="Post Image" style="width: 100px; height: auto;" /></td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/inheritance-dalam-java-2145648ad259?source=rss-272e0aace4a6------2" target="_blank" style="color: white; text-decoration: none;">Inheritance dalam Java</a></h3><p>Inheritance dalam Java: Membuat Kelas TurunanInheritance atau pewarisan adalah salah satu konsep das...</p></td>
-    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/1024/0*j228EAaH0-pIXt2y.jpg" alt="Post Image" style="width: 100px; height: auto;" /></td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/dhcp-dan-nat-pada-cisco-packet-tracer-781b1ea15692?source=rss-272e0aace4a6------2" target="_blank" style="color: white; text-decoration: none;">DHCP dan NAT pada Cisco Packet Tracer</a></h3><p>Dalam dunia jaringan, dua konsep fundamental yang sering digunakan adalah DHCP (Dynamic Host Configu...</p></td>
-    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/1024/0*hN4Qq1km84XKpfLJ" alt="Post Image" style="width: 100px; height: auto;" /></td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/ekosistem-hadoop-pig-dan-hive-43b48d369828?source=rss-272e0aace4a6------2" target="_blank" style="color: white; text-decoration: none;">Ekosistem Hadoop — Pig dan Hive</a></h3><p>Ekosistem Hadoop — Pig dan Hive: Instalasi Hingga Praktik KeduanyaDalam dunia Big Data, Pig dan Hive...</p></td>
-    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/737/0*PjA-uKUaZo8q579w.png" alt="Post Image" style="width: 100px; height: auto;" /></td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/enkapsulasi-dan-akses-modifier-2157af7cf274?source=rss-272e0aace4a6------2" target="_blank" style="color: white; text-decoration: none;">Enkapsulasi dan Akses Modifier</a></h3><p>Enkapsulasi dan Akses Modifier dalam Pemrograman Berorientasi ObjekDalam pemrograman berorientasi ob...</p></td>
-    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/827/1*sUycVMDsajgARsD8W1t4uw.png" alt="Post Image" style="width: 100px; height: auto;" /></td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/implementasi-mapreduce-hadoop-sederhana-b413cfc67f5c?source=rss-272e0aace4a6------2" target="_blank" style="color: white; text-decoration: none;">Implementasi MapReduce Hadoop Sederhana</a></h3><p>Implementasi MapReduce Hadoop Sederhana: Python hingga Hadoop Dataset BesarMapReduce adalah model pe...</p></td>
-    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/740/1*EDZMmI15hqMc5gyH8OgZlA.png" alt="Post Image" style="width: 100px; height: auto;" /></td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/cisco-packet-tracer-instalasi-serta-praktik-dasar-routing-dan-switching-57c7df570834?source=rss-272e0aace4a6------2" target="_blank" style="color: white; text-decoration: none;">Instalasi Cisco Packet Tracer</a></h3><p>Cisco Packet Tracer: Instalasi Serta Praktik Dasar Routing dan SwitchingPada era digital saat ini, j...</p></td>
-    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/741/1*TtnvlU2k5vZyJNqzzs_BjQ.png" alt="Post Image" style="width: 100px; height: auto;" /></td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/netbeans-praktik-dasar-java-kelas-dan-objek-58e1f14e832a?source=rss-272e0aace4a6------2" target="_blank" style="color: white; text-decoration: none;">NetBeans Praktik Dasar Java</a></h3><p>NetBeans Praktik Dasar Java: Kelas dan ObjekDalam pemrograman berorientasi objek (OOP), kelas dan ob...</p></td>
-    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/800/0*bVSoGXJCJ8VwdYUk.jpeg" alt="Post Image" style="width: 100px; height: auto;" /></td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/instalasi-dan-konfigurasi-hadoop-serta-spark-di-windows-f7f3582def93?source=rss-272e0aace4a6------2" target="_blank" style="color: white; text-decoration: none;">Instalasi dan Konfigurasi Hadoop serta Spark di Windows</a></h3><p>Instalasi dan Konfigurasi Hadoop serta Spark di Windows: Instalasi JDK Hingga Integrasi Hadoop denga...</p></td>
-    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/700/0*N4ybCsS4TUFsX5sU.jpg" alt="Post Image" style="width: 100px; height: auto;" /></td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/instalasi-kabel-jaringan-konfigurasi-ip-address-b034228e439d?source=rss-272e0aace4a6------2" target="_blank" style="color: white; text-decoration: none;">Instalasi Kabel Jaringan &amp; Konfigurasi IP Address</a></h3><p>Dalam dunia jaringan komputer, pemasangan kabel jaringan adalah salah satu langkah penting untuk mem...</p></td>
-    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/474/0*Geu43XOI_mJYcLm3" alt="Post Image" style="width: 100px; height: auto;" /></td>
   </tr>
 </table>
 </div>
