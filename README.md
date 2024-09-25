@@ -57,7 +57,7 @@ The generated figure displays four charts side by side:
 3. **Top Languages**: A pie chart showing the distribution of the top programming languages used across all repositories.
 4. **Commits per Month**: A line chart showing the number of commits over the past 12 months, up to the current month.
 
-### Medium Post
+### Latest Medium Post
 
 <!--START_SECTION:medium-->
 
@@ -83,6 +83,12 @@ The generated figure displays four charts side by side:
 </div>
 
 <!--END_SECTION:medium-->
+
+<div align="center">
+  
+### [--- More ---](https://medium.com/@dikaelsaputra)
+
+</div>
 
 ### Contributions
 
