@@ -4,7 +4,7 @@ from html import escape
 
 FEED_URL = "https://medium.com/feed/@dikaelsaputra"
 
-def fetch_medium_posts(feed_url, num_posts=10):
+def fetch_medium_posts(feed_url, num_posts=3):
     feed = feedparser.parse(feed_url)
     posts = []
 
