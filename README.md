@@ -13,11 +13,9 @@ I am an adaptable person to different topics, Web Developer, App Developer, Entr
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently studying on **University**.
-- 🤝 &nbsp; I’m looking to collaborate on [NextAnimeJS](https://github.com/figuran04/nextanimejs).
 - 🌱 &nbsp; I’m currently learning Typescript.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/figuran04?tab=repositories).
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help.
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/dika-elsaputra-8a35462a7/).
 - 📝 &nbsp; Checkout my [Medium](#medium-post).
 
 ### Languages and Tools:
@@ -57,6 +55,10 @@ The generated figure displays four charts side by side:
 3. **Top Languages**: A pie chart showing the distribution of the top programming languages used across all repositories.
 4. **Commits per Month**: A line chart showing the number of commits over the past 12 months, up to the current month.
 
+### Contributions
+
+![Snake animation](https://raw.githubusercontent.com/figuran04/figuran04/output/snake.svg)
+
 ### Latest Medium Post
 
 <!--START_SECTION:medium-->
@@ -89,8 +91,4 @@ The generated figure displays four charts side by side:
 ### [--- More ---](https://medium.com/@dikaelsaputra)
 
 </div>
-
-### Contributions
-
-![Snake animation](https://raw.githubusercontent.com/figuran04/figuran04/output/snake.svg)
 
