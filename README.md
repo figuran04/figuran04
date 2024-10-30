@@ -16,7 +16,7 @@ I am an adaptable person to different topics, Web Developer, App Developer, Entr
 - 🌱 &nbsp; I’m currently learning Typescript.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/figuran04?tab=repositories).
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help.
-- 📝 &nbsp; Checkout my [Medium](#medium-post).
+- 📝 &nbsp; Checkout my [Medium](#latest-medium-post).
 
 ### Languages and Tools:
 
