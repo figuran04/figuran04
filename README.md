@@ -70,16 +70,16 @@ The generated figure displays four charts side by side:
     <th style="border: 1px solid white; padding: 10px;">Thumbnail</th>
   </tr>
   <tr>
+    <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/vlan-virtual-local-area-network-edc290d38b42?source=rss-272e0aace4a6------2" target="_blank" style="color: white; text-decoration: none;">VLAN: Virtual Local Area Network</a></h3><p>Dalam sebuah jaringan komputer, khususnya jaringan skala besar, sering kali diperlukan pembagian seg...</p></td>
+    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/1024/0*P8Ziq4tEznIdKcol.png" alt="Post Image" style="width: 100px; height: auto;" /></td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/implementasi-nosql-database-mongodb-dengan-pymongo-689ae79ac6c6?source=rss-272e0aace4a6------2" target="_blank" style="color: white; text-decoration: none;">Implementasi NoSQL Database — MongoDB dengan PyMongo</a></h3><p>Implementasi NoSQL Database — MongoDB dengan PyMongoMongoDB adalah database NoSQL yang terkenal kare...</p></td>
+    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/827/1*DsJ5H9CpzW_OcTXfwUS2IQ.png" alt="Post Image" style="width: 100px; height: auto;" /></td>
+  </tr>
+  <tr>
     <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/memahami-konsep-interface-dan-implementasinya-dalam-pemrograman-java-17ad4039398c?source=rss-272e0aace4a6------2" target="_blank" style="color: white; text-decoration: none;">Interface dan Implementasinya dalam Pemrograman Java</a></h3><p>Memahami Konsep Interface dan Implementasinya dalam Pemrograman JavaDalam dunia pemrograman Java, in...</p></td>
     <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/750/0*yyQctNc5MEx_ABu2.png" alt="Post Image" style="width: 100px; height: auto;" /></td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/fiber-optic-panduan-dan-praktik-penyambungan-86a5d367264c?source=rss-272e0aace4a6------2" target="_blank" style="color: white; text-decoration: none;">Fiber Optic: Panduan dan Praktik Penyambungan</a></h3><p>Fiber optic atau serat optik adalah teknologi modern dalam dunia jaringan yang memanfaatkan serat ka...</p></td>
-    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/641/1*rM3zh-dsQn8Hc8kNvCTj6w.png" alt="Post Image" style="width: 100px; height: auto;" /></td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/operasi-dasar-sql-di-spark-sql-b09121677bac?source=rss-272e0aace4a6------2" target="_blank" style="color: white; text-decoration: none;">Operasi Dasar SQL di Spark SQL</a></h3><p>Spark SQL adalah modul dari Apache Spark yang memungkinkan pengguna untuk menjalankan query SQL pada...</p></td>
-    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/1024/0*jfTnuSDHrXThC9OZ.png" alt="Post Image" style="width: 100px; height: auto;" /></td>
   </tr>
 </table>
 </div>
