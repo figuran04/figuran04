@@ -70,16 +70,16 @@ The generated figure displays four charts side by side:
     <th style="border: 1px solid white; padding: 10px;">Thumbnail</th>
   </tr>
   <tr>
+    <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/data-cleaning-preparation-and-visualization-7ec75116b408?source=rss-272e0aace4a6------2" target="_blank" style="color: white; text-decoration: none;">Data Cleaning, Preparation, and Visualization</a></h3><p>Data Cleaning, Preparation, and Visualization: Pandas, Matplotlib, and SeabornData adalah inti dari ...</p></td>
+    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/827/1*wG3lr-PCgzqfsIAR95Q1cQ.png" alt="Post Image" style="width: 100px; height: auto;" /></td>
+  </tr>
+  <tr>
     <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/file-i-o-dan-serialisasi-dalam-java-63dbc3c01cf5?source=rss-272e0aace4a6------2" target="_blank" style="color: white; text-decoration: none;">File I/O dan Serialisasi dalam Java</a></h3><p>File I/O dan Serialisasi dalam Java: Studi Kasus Sistem PerpustakaanDalam pengembangan perangkat lun...</p></td>
     <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/827/1*BewRAeJrHhDYaz_vXQf3rw.png" alt="Post Image" style="width: 100px; height: auto;" /></td>
   </tr>
   <tr>
     <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/memahami-konsep-tunneling-dalam-jaringan-komputer-c6fb206a4b65?source=rss-272e0aace4a6------2" target="_blank" style="color: white; text-decoration: none;">Memahami Konsep Tunneling dalam Jaringan Komputer</a></h3><p>Tunneling merupakan teknik penting dalam jaringan komputer yang memungkinkan data untuk dikirim deng...</p></td>
     <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/769/1*uPnSYmDi8aPGzN56_JAUHw.png" alt="Post Image" style="width: 100px; height: auto;" /></td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/konfigurasi-firewall-pada-mikrotik-6a8a0f81f676?source=rss-272e0aace4a6------2" target="_blank" style="color: white; text-decoration: none;">Konfigurasi Firewall pada Mikrotik</a></h3><p>Konfigurasi Firewall pada Mikrotik: Perlindungan dan Pengaturan Akses JaringanDi dunia yang semakin ...</p></td>
-    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/647/1*vMtQQihQlSoro71nE2g81Q.png" alt="Post Image" style="width: 100px; height: auto;" /></td>
   </tr>
 </table>
 </div>
