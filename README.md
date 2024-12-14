@@ -4,7 +4,9 @@
 
 ![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&link=https%3A%2F%2Fmedium.com%2F%40dikaelsaputra)
 ![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdika-elsaputra-8a35462a7%2F)
+![ko-fi](https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge&link=https%3A%2F%2Fko-fi.com%2Fdikaelsaputra)
 ![Peofile view](https://komarev.com/ghpvc/?username=figuran04&color=0A66C2&style=for-the-badge&abbreviated=true)
+![paypal](https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge&link=https%3A%2F%2Fpaypal.me%2Ffiguran04)
 
 I am an adaptable person to different topics, Web Developer, App Developer, Entry-level Designer depending on what the project entails. I love exploring new tech stacks and leveraging them to build cool things. 
 
