@@ -4,9 +4,10 @@ from collections import Counter
 from datetime import datetime, timedelta
 
 # Warna tema
-primary_color = '#6e44ff'
+primary_color = '#0A66C2'
 secondary_color = '#00ff7f'
-star_color = '#6e44ff'
+# star_color = '#6e44ff'
+star_color = '#0A66C2'
 
 def configure_plot(title, x_label, y_label, ax):
     ax.set_title(title, color='white')
