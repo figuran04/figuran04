@@ -19,5 +19,5 @@ jobs:
 
       - name: Convert Markdown to Image
         run: |
-          pandoc -s input.md -o output.png
+          pandoc -s README.md -o output.png
           mv output.png ./output.png
