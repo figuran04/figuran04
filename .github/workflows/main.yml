@@ -4,9 +4,6 @@ on:
   schedule:
     - cron: "21 20 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
   generate-image:

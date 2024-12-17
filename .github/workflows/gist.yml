@@ -1,0 +1,28 @@
+name: Sync Gist with GitHub Repository
+
+on:
+  schedule:
+    - cron: "21 30 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  sync-gist:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v2
+
+      - name: Create Gist
+        id: gist
+        uses: actions/create-gist@v3
+        with:
+          description: "Sync from GitHub Repository"
+          files: |
+            stats.md: |
+              $(cat $(git rev-parse --show-toplevel)/README.md)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Token GitHub Personal Access Token
+
