@@ -14,7 +14,7 @@ jobs:
 
       - name: Create Gist
         id: gist
-        uses: actions/create-gist@v3
+        uses: actions/figuran04@v3
         with:
           description: "Sync from GitHub Repository"
           files: |
