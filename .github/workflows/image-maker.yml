@@ -12,18 +12,27 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v2
 
-      - name: Install pandoc and imagemagick
+      - name: Install Dependencies
         run: |
           sudo apt-get update -y
-          sudo apt-get install -y pandoc imagemagick
+          sudo apt-get install -y pandoc wkhtmltopdf
 
-      - name: Convert Markdown to Image
-        run: |
-          pandoc -s tes.md --output output.png
-          mv output.png ./.github/output.png
+      - name: Convert Markdown to HTML
+        run: pandoc -s README.md -o output.html
+
+      - name: Convert HTML to Image
+        run: wkhtmltoimage output.html output.png
 
       - name: Debug Output Path
         run: |
           echo "Current directory: $(pwd)"
           echo "Files in directory:"
           ls -lah
+
+      - name: Commit and Push Output
+        run: |
+          git config --local user.name "github-actions"
+          git config --local user.email "actions@github.com"
+          git add output.png
+          git commit -m "Update output.png [skip ci]"
+          git push
