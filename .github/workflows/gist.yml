@@ -1,9 +1,6 @@
 name: Sync Gist with GitHub Repository
 
 on:
-  schedule:
-    - cron: "21 30 * * *"
-  workflow_dispatch:
   push:
     branches:
       - main
