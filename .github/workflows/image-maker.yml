@@ -1,0 +1,23 @@
+name: Convert Markdown to Image
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v2
+
+      - name: Install pandoc and imagemagick
+        run: |
+          sudo apt-get update -y
+          sudo apt-get install -y pandoc imagemagick
+
+      - name: Convert Markdown to Image
+        run: |
+          pandoc -s input.md -o output.png
+          mv output.png ./output.png
