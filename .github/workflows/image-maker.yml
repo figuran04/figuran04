@@ -23,4 +23,7 @@ jobs:
           mv output.png ./.github/output.png
 
       - name: Debug Output Path
-        run: echo "Output path: $(pwd)/output.png"
+        run: |
+          echo "Current directory: $(pwd)"
+          echo "Files in directory:"
+          ls -lah
