@@ -21,7 +21,8 @@ jobs:
         run: pandoc -s README.md -o output.html
 
       - name: Convert HTML to Image
-        run: wkhtmltoimage output.html output.png
+        run: |
+          wkhtmltoimage --enable-local-file-access output.html output.png
 
       - name: Debug Output Path
         run: |
