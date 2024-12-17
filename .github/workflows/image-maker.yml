@@ -21,3 +21,6 @@ jobs:
         run: |
           pandoc -s tes.md --output output.png
           mv output.png ./outputs.png
+
+      - name: Debug Output Path
+        run: echo "Output path: $(pwd)/outputs.png"
