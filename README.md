@@ -10,7 +10,7 @@
 
 I am an adaptable person to different topics, Web Developer, App Developer, Entry-level Designer depending on what the project entails. I love exploring new tech stacks and leveraging them to build cool things. 
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/figuran04/figuran04/main/profile.gif" width="310px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/figuran04/figuran04/main/profile.gif" width="330px"/>
   
 ### 🧐 More About Me:
 
