@@ -15,7 +15,7 @@ I am an adaptable person to different topics, Web Developer, App Developer, Entr
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently studying on **University**.
-- 🌱 &nbsp; I’m currently learning Typescript.
+- 🌱 &nbsp; I’m currently learning Blockchain.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/figuran04?tab=repositories).
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help.
 - 📝 &nbsp; Checkout my [Medium](#latest-medium-post).
