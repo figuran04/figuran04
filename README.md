@@ -66,22 +66,22 @@ The generated figure displays four charts side by side:
 <!--START_SECTION:medium-->
 
 <div style="overflow-x:auto;">
-<table style="width: 100%; border-collapse: collapse; color: white;">
+<table style="width: 100%; border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid white; padding: 10px;">Summary</th>
     <th style="border: 1px solid white; padding: 10px;">Thumbnail</th>
   </tr>
   <tr>
-    <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/mengenal-linearlayout-dan-relativelayout-di-android-studio-700bbf5a0b62?source=rss-272e0aace4a6------2" target="_blank" style="color: white; text-decoration: none;">Mengenal LinearLayout dan RelativeLayout di Android Studio</a></h3><p>Pengenalan lebih dalam tentang Layout di Android StudioDalam pengembangan aplikasi Android, memilih ...</p></td>
+    <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/crud-produk-dengan-php-dan-mysql-ddd20aea7c91?source=rss-272e0aace4a6------2" target="_blank" style="text-decoration: none;">CRUD Produk dengan PHP dan MySQL</a></h3><p>Panduan Lengkap: Membuat CRUD Produk dengan PHP dan MySQLPhoto by Ben Griffiths on UnsplashCRUD (Cre...</p></td>
+    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/1024/0*NO8lOjrBHM4Yldf6" alt="Post Image" style="width: 100px; height: auto;" /></td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/mengenal-linearlayout-dan-relativelayout-di-android-studio-700bbf5a0b62?source=rss-272e0aace4a6------2" target="_blank" style="text-decoration: none;">Mengenal LinearLayout dan RelativeLayout di Android Studio</a></h3><p>Pengenalan lebih dalam tentang Layout di Android StudioDalam pengembangan aplikasi Android, memilih ...</p></td>
     <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/768/1*5KwiurYGiPovt8VOMhuwoQ.png" alt="Post Image" style="width: 100px; height: auto;" /></td>
   </tr>
   <tr>
-    <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/desain-ui-aplikasi-android-di-android-studio-9d8edc4abec5?source=rss-272e0aace4a6------2" target="_blank" style="color: white; text-decoration: none;">Desain UI Aplikasi Android di Android Studio</a></h3><p>Dasar-dasar struktur proyek, mendesain UI, dan interaksi melalui kode JavaPhoto by Shamsudeen Adedok...</p></td>
+    <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/desain-ui-aplikasi-android-di-android-studio-9d8edc4abec5?source=rss-272e0aace4a6------2" target="_blank" style="text-decoration: none;">Desain UI Aplikasi Android di Android Studio</a></h3><p>Dasar-dasar struktur proyek, mendesain UI, dan interaksi melalui kode JavaPhoto by Shamsudeen Adedok...</p></td>
     <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/1024/0*_nsZFw0H_SK1vo_b" alt="Post Image" style="width: 100px; height: auto;" /></td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/ui-ux-sistem-e-commerce-sederhana-676d5b3c8e71?source=rss-272e0aace4a6------2" target="_blank" style="color: white; text-decoration: none;">UI/UX Sistem E-Commerce Sederhana</a></h3><p>Zerovaa — Desain UI/UX dengan Figma beserta Source CodePhoto by Tirza van Dijk on UnsplashArtikel in...</p></td>
-    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/768/1*paSTL6fh33tQR5xnvylq9A.png" alt="Post Image" style="width: 100px; height: auto;" /></td>
   </tr>
 </table>
 </div>
