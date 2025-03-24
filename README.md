@@ -8,7 +8,7 @@
 ![Peofile view](https://komarev.com/ghpvc/?username=figuran04&color=0A66C2&style=for-the-badge&abbreviated=true)
 ![paypal](https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge&link=https%3A%2F%2Fpaypal.me%2Ffiguran04)
 
-I am an adaptable person to different topics, Web Developer, App Developer, Entry-level Designer depending on what the project entails. I love exploring new tech stacks and leveraging them to build cool things. 
+I love exploring new tech stacks and leveraging them to build cool things. 
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/figuran04/figuran04/main/profile.gif" width="345px"/>
   
@@ -89,8 +89,6 @@ The generated figure displays four charts side by side:
 <!--END_SECTION:medium-->
 
 <div align="center">
-  
-### [--- More ---](https://medium.com/@dikaelsaputra)
-
+  <h3><a href="https://medium.com/@dikaelsaputra" target="_blank" style="text-decoration: none;">--- More ---</a></h3>
 </div>
 
