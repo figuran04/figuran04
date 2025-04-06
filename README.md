@@ -16,7 +16,6 @@ I love exploring new tech stacks and leveraging them to build cool things.
 
 - 🔭 &nbsp; I’m currently studying on **University**.
 - 🌱 &nbsp; I’m currently learning Blockchain.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/figuran04?tab=repositories).
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help.
 - 📝 &nbsp; Checkout my [Medium](#latest-medium-post).
 
