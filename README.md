@@ -47,14 +47,17 @@ I love exploring new tech stacks and leveraging them to build cool things.
 
 ### Visualizations
 
-The generated figure displays four charts side by side:
-
-![GitHub Repository Statistics](github_stats.png)
-
+<details>
+  <summary>The generated figure displays four charts side by side:</summary>
+  
 1. **Commits per Repository**: Shows the number of commits for each repository.
 2. **Forks & Stars per Repository**: Compares the number of forks and stars for each repository.
 3. **Top Languages**: A pie chart showing the distribution of the top programming languages used across all repositories.
 4. **Commits per Month**: A line chart showing the number of commits over the past 12 months, up to the current month.
+
+</details>
+
+![GitHub Repository Statistics](github_stats.png)
 
 ### Contributions
 
