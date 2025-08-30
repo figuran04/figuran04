@@ -74,7 +74,7 @@ I love exploring new tech stacks and leveraging them to build cool things.
     <th style="border: 1px solid white; padding: 10px;">Thumbnail</th>
   </tr>
   <tr>
-    <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/network-topology-analysis-lab-rekayasa-untidar-infrastructure-assessment-dfa82bdfa69b?source=rss-272e0aace4a6------2" target="_blank" style="text-decoration: none;">Network Topology Analysis: Lab Rekayasa Untidar Infrastructure Assessment</a></h3><p>Ringkasan Analisis, Temuan, Rekomendasi Perbaikan, dan Diagram Topologyhttps://fossbytes.com/wp-cont...</p></td>
+    <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/network-topology-analysis-lab-rekayasa-untidar-infrastructure-assessment-dfa82bdfa69b?source=rss-272e0aace4a6------2" target="_blank" style="text-decoration: none;">Network Topology Analysis: Lab Rekayasa Untidar Infrastructure Assessment</a></h3><p>Ringkasan Analisis, Temuan, Rekomendasi Perbaikan, dan Diagram Topology1 — Executive SummaryOverview...</p></td>
     <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/667/0*tYibaecpV0OCSyRw.jpg" alt="Post Image" style="width: 100px; height: auto;" /></td>
   </tr>
   <tr>
