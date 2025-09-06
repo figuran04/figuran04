@@ -74,16 +74,16 @@ I love exploring new tech stacks and leveraging them to build cool things.
     <th style="border: 1px solid white; padding: 10px;">Thumbnail</th>
   </tr>
   <tr>
+    <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/merancang-arsitektur-cloud-untuk-aplikasi-vidlytics-33c39d7e1156?source=rss-272e0aace4a6------2" target="_blank" style="text-decoration: none;">Merancang Arsitektur Cloud untuk Aplikasi Vidlytics</a></h3><p>Easily Increase Your Conversions By Just Swapping Out Your Video PlayerDalam era digital, konsumsi v...</p></td>
+    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/795/1*IEOT1_THjxC2KDiIi0d2bw.png" alt="Post Image" style="width: 100px; height: auto;" /></td>
+  </tr>
+  <tr>
     <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/network-topology-analysis-lab-rekayasa-untidar-infrastructure-assessment-dfa82bdfa69b?source=rss-272e0aace4a6------2" target="_blank" style="text-decoration: none;">Network Topology Analysis: Lab Rekayasa Untidar Infrastructure Assessment</a></h3><p>Ringkasan Analisis, Temuan, Rekomendasi Perbaikan, dan Diagram Topology1 — Executive SummaryOverview...</p></td>
     <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/667/0*tYibaecpV0OCSyRw.jpg" alt="Post Image" style="width: 100px; height: auto;" /></td>
   </tr>
   <tr>
     <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/memahami-sistem-terintegrasi-5bac6bbe77e6?source=rss-272e0aace4a6------2" target="_blank" style="text-decoration: none;">Memahami Sistem Terintegrasi</a></h3><p>Karakteristik, Perbedaan Data &amp; Application Integration, serta Contoh Implementasi TSThttps://www.ha...</p></td>
     <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/700/0*GYMCX9a8rN_S8bGN.png" alt="Post Image" style="width: 100px; height: auto;" /></td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/instalasi-konfigurasi-dan-template-ubuntu-di-virtualbox-c83bceb22973?source=rss-272e0aace4a6------2" target="_blank" style="text-decoration: none;">Instalasi, Konfigurasi, dan Template Ubuntu di VirtualBox</a></h3><p>Instalasi, Konfigurasi, dan Template Ubuntu di VirtualboxKonsep dasar Virtualization, instalasi dan ...</p></td>
-    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/768/1*AM188a3sfFLpAMTOS-XpDQ.png" alt="Post Image" style="width: 100px; height: auto;" /></td>
   </tr>
 </table>
 </div>
