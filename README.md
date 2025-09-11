@@ -74,16 +74,16 @@ I love exploring new tech stacks and leveraging them to build cool things.
     <th style="border: 1px solid white; padding: 10px;">Thumbnail</th>
   </tr>
   <tr>
+    <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/running-led-bolak-balik-457fec81b822?source=rss-272e0aace4a6------2" target="_blank" style="text-decoration: none;">Running LED Bolak-Balik</a></h3><p>Latihan/Tugas LED Running Bolak-Balik ArduinoPercobaan ini merupakan lanjutan dari latihan dasar mik...</p></td>
+    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/768/1*4tvkhSnL71rY3CirLDoHIA.png" alt="Post Image" style="width: 100px; height: auto;" /></td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/pemrograman-dasar-mikrokontroler-e435cc86e6c0?source=rss-272e0aace4a6------2" target="_blank" style="text-decoration: none;">Pemrograman Dasar Mikrokontroler</a></h3><p>LED Eksternal Tunggal, Dua LED Bergantian, Running LEDPemrograman mikrokontroler menjadi dasar penti...</p></td>
+    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/767/1*Kv343NfaUbS0APA2BJnTKw.png" alt="Post Image" style="width: 100px; height: auto;" /></td>
+  </tr>
+  <tr>
     <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/dokumentasi-instalasi-arduino-ide-uji-koneksi-board-arduino-mega-2560-0598359f4d60?source=rss-272e0aace4a6------2" target="_blank" style="text-decoration: none;">Dokumentasi: Instalasi Arduino IDE &amp; Uji Koneksi Board Arduino Mega 2560</a></h3><p>Langkah, Hasil, dan Evaluasi PraktikumSetelah mempelajari dasar teori mengenai Arduino IDE, board Ar...</p></td>
     <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/767/1*-gP4hWNg-lxXnDBnAfpkcA.png" alt="Post Image" style="width: 100px; height: auto;" /></td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/instalasi-arduino-ide-uji-koneksi-board-arduino-mega-2560-ddbf4cecd951?source=rss-272e0aace4a6------2" target="_blank" style="text-decoration: none;">Instalasi Arduino IDE &amp; Uji Koneksi Board Arduino Mega 2560</a></h3><p>Mengenal dan Memulai Langkah Awal di Dunia IoTArduino merupakan platform mikrokontroler open-source ...</p></td>
-    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/767/1*uIp7DSUAX6RH5SjyCAZWnw.png" alt="Post Image" style="width: 100px; height: auto;" /></td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/pengenalan-arduino-trainer-kit-mpd-ad1-18-10b211578f31?source=rss-272e0aace4a6------2" target="_blank" style="text-decoration: none;">Pengenalan Arduino Trainer Kit (MPD-AD1.18)</a></h3><p>Mikrokontroler ATmega2560 (Arduino Mega R3)Perkembangan teknologi Internet of Things (IoT) telah mem...</p></td>
-    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/762/1*3Q902BWhnJGUghhY7yiCyQ.png" alt="Post Image" style="width: 100px; height: auto;" /></td>
   </tr>
 </table>
 </div>
