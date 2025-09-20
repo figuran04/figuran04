@@ -74,16 +74,16 @@ I love exploring new tech stacks and leveraging them to build cool things.
     <th style="border: 1px solid white; padding: 10px;">Thumbnail</th>
   </tr>
   <tr>
+    <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/digital-input-f39f8790aa60?source=rss-272e0aace4a6------2" target="_blank" style="text-decoration: none;">Digital Input</a></h3><p>Push Button dan LED, Keypad 4x4 dan LCDDigital input merupakan salah satu dasar penting dalam pemrog...</p></td>
+    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/768/1*HtVHetjgxUGbY8YsWLRiqQ.png" alt="Post Image" style="width: 100px; height: auto;" /></td>
+  </tr>
+  <tr>
     <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/dhcp-server-configuration-ubuntu-server-24-04-implementation-guide-6c0d3a7a68ef?source=rss-272e0aace4a6------2" target="_blank" style="text-decoration: none;">DHCP Server Configuration: Ubuntu Server 24.04 Implementation Guide</a></h3><p>Team 2 — Praktikum Konfigurasi dan Administrasi Sistem JaringanDidokumentasikan oleh:Ida Faizatun Za...</p></td>
     <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/768/1*uLd-zpAyaAK6e5_tNPr_PQ.png" alt="Post Image" style="width: 100px; height: auto;" /></td>
   </tr>
   <tr>
     <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/running-led-bolak-balik-457fec81b822?source=rss-272e0aace4a6------2" target="_blank" style="text-decoration: none;">Running LED Bolak-Balik</a></h3><p>Latihan/Tugas LED Running Bolak-Balik ArduinoPercobaan ini merupakan lanjutan dari latihan dasar mik...</p></td>
     <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/768/1*4tvkhSnL71rY3CirLDoHIA.png" alt="Post Image" style="width: 100px; height: auto;" /></td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/pemrograman-dasar-mikrokontroler-e435cc86e6c0?source=rss-272e0aace4a6------2" target="_blank" style="text-decoration: none;">Pemrograman Dasar Mikrokontroler</a></h3><p>LED Eksternal Tunggal, Dua LED Bergantian, Running LEDPemrograman mikrokontroler menjadi dasar penti...</p></td>
-    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/767/1*Kv343NfaUbS0APA2BJnTKw.png" alt="Post Image" style="width: 100px; height: auto;" /></td>
   </tr>
 </table>
 </div>
