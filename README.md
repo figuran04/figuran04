@@ -74,16 +74,16 @@ I love exploring new tech stacks and leveraging them to build cool things.
     <th style="border: 1px solid white; padding: 10px;">Thumbnail</th>
   </tr>
   <tr>
+    <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/latihan-integrasi-komponen-dasar-1d7bc094a58e?source=rss-272e0aace4a6------2" target="_blank" style="text-decoration: none;">Latihan: Integrasi Komponen Dasar</a></h3><p>Mini Project: Integrasi Komponen (Password System &amp; Counter LCD)Latihan ini bertujuan untuk menginte...</p></td>
+    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/768/1*rCbCbnkIpH_ZOEFat7RR6w.png" alt="Post Image" style="width: 100px; height: auto;" /></td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/integrasi-komponen-dasar-melalui-proyek-sederhana-0574daba6467?source=rss-272e0aace4a6------2" target="_blank" style="text-decoration: none;">Integrasi Komponen Dasar melalui Proyek Sederhana</a></h3><p>Mini Password dengan Keypad, LED, dan Buzzer beserta Counter Tombol dengan LCDPhoto by Robin Glauser...</p></td>
+    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/1024/0*MZcCz6h-3v1o7rSP" alt="Post Image" style="width: 100px; height: auto;" /></td>
+  </tr>
+  <tr>
     <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/latihan-digital-output-beda12c1e445?source=rss-272e0aace4a6------2" target="_blank" style="text-decoration: none;">Latihan: Digital Output</a></h3><p>Buzzer &amp; Seven Segment Display Sebagai OutputLatihan dan tugas ini bertujuan untuk memperdalam pemah...</p></td>
     <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/768/1*aLzOs7zcofNbUM9vcYYE5Q.png" alt="Post Image" style="width: 100px; height: auto;" /></td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/digital-output-e88dde465cf2?source=rss-272e0aace4a6------2" target="_blank" style="text-decoration: none;">Digital Output</a></h3><p>Buzzer &amp; Seven Segment Display Sebagai OutputDigital output pada mikrokontroler merupakan salah satu...</p></td>
-    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/780/0*zlwxaryhRsrUXVVB.jpeg" alt="Post Image" style="width: 100px; height: auto;" /></td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/layanan-cloud-computing-5591202002ba?source=rss-272e0aace4a6------2" target="_blank" style="text-decoration: none;">Layanan Cloud Computing</a></h3><p>Pemahaman IaaS, PaaS, dan SaaS dalam Ekosistem Komputasi AwanPhoto by Hazel Z on UnsplashCloud compu...</p></td>
-    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/1024/0*6z_AKsncvjMYm0SI" alt="Post Image" style="width: 100px; height: auto;" /></td>
   </tr>
 </table>
 </div>
