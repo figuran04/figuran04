@@ -74,16 +74,16 @@ I love exploring new tech stacks and leveraging them to build cool things.
     <th style="border: 1px solid white; padding: 10px;">Thumbnail</th>
   </tr>
   <tr>
+    <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/file-server-configuration-ubuntu-server-24-04-implementation-guide-4ccd4e6e3444?source=rss-272e0aace4a6------2" target="_blank" style="text-decoration: none;">File Server Configuration: Ubuntu Server 24.04 Implementation Guide</a></h3><p>Team 2 — Praktikum Konfigurasi dan Administrasi Sistem JaringanDidokumentasikan oleh:Ida Faizatun Za...</p></td>
+    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/768/1*OmOrJ37xdPRV8ATb2d20iA.png" alt="Post Image" style="width: 100px; height: auto;" /></td>
+  </tr>
+  <tr>
     <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/latihan-komunikasi-serial-49c7ac057cb1?source=rss-272e0aace4a6------2" target="_blank" style="text-decoration: none;">Latihan: Komunikasi Serial</a></h3><p>Menampilkan Biodata Mahasiswa &amp; Kontrol Buzzer via Serial MonitorLatihan ini bertujuan untuk memperk...</p></td>
     <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/599/1*loRK0nP8KFcTsD4jMVeZkw.gif" alt="Post Image" style="width: 100px; height: auto;" /></td>
   </tr>
   <tr>
     <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/komunikasi-serial-16bb76f042e1?source=rss-272e0aace4a6------2" target="_blank" style="text-decoration: none;">Komunikasi Serial</a></h3><p>Memahami prinsip dasar komunikasi serial asinkron pada Arduino Mega 2560.Komunikasi serial merupakan...</p></td>
     <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/530/1*XIKLtWWO5sYi3pBDXQ2LVA.png" alt="Post Image" style="width: 100px; height: auto;" /></td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/latihan-integrasi-komponen-dasar-1d7bc094a58e?source=rss-272e0aace4a6------2" target="_blank" style="text-decoration: none;">Latihan: Integrasi Komponen Dasar</a></h3><p>Mini Project: Integrasi Komponen (Password System &amp; Counter LCD)Latihan ini bertujuan untuk menginte...</p></td>
-    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/768/1*rCbCbnkIpH_ZOEFat7RR6w.png" alt="Post Image" style="width: 100px; height: auto;" /></td>
   </tr>
 </table>
 </div>
