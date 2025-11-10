@@ -74,16 +74,16 @@ I love exploring new tech stacks and leveraging them to build cool things.
     <th style="border: 1px solid white; padding: 10px;">Thumbnail</th>
   </tr>
   <tr>
+    <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/latihan-tugas-monitoring-suhu-dan-jarak-via-komputer-grafik-02479bfa863c?source=rss-272e0aace4a6------2" target="_blank" style="text-decoration: none;">LATIHAN / TUGAS: Monitoring Suhu dan Jarak via Komputer (Grafik)</a></h3><p>Kombinasi Sensor Suhu &amp; JarakLatihan ini merupakan pengembangan dari percobaan sebelumnya, yaitu Mon...</p></td>
+    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/768/1*ReB0-yzT13ECf7lST20vfQ.png" alt="Post Image" style="width: 100px; height: auto;" /></td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/monitoring-suhu-via-komputer-grafik-4f521fb36138?source=rss-272e0aace4a6------2" target="_blank" style="text-decoration: none;">Monitoring Suhu via Komputer (Grafik)</a></h3><p>Memahami prinsip menampilkan output sensor di komputerLatihan ini bertujuan untuk memahami cara meng...</p></td>
+    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/767/1*Cf0ExDufrzl9JR3bYiCfCg.png" alt="Post Image" style="width: 100px; height: auto;" /></td>
+  </tr>
+  <tr>
     <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/latihan-input-analog-ed4b01166699?source=rss-272e0aace4a6------2" target="_blank" style="text-decoration: none;">Latihan: Input Analog</a></h3><p>Termometer Digital (Sensor LM35)Latihan ini bertujuan untuk memahami cara membaca data analog dari s...</p></td>
     <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/864/1*MgMbMrbJWlPIf1xz_UOmfg.jpeg" alt="Post Image" style="width: 100px; height: auto;" /></td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/input-analog-340ab62c92ed?source=rss-272e0aace4a6------2" target="_blank" style="text-decoration: none;">Input Analog</a></h3><p>Memahami prinsip kerja input analog Arduino dan hubungannya antara tegangan terukur dengan nilai dig...</p></td>
-    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/768/1*_XvnQAarJpKJzjtg-23ILA.png" alt="Post Image" style="width: 100px; height: auto;" /></td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/file-server-configuration-ubuntu-server-24-04-implementation-guide-4ccd4e6e3444?source=rss-272e0aace4a6------2" target="_blank" style="text-decoration: none;">File Server Configuration: Ubuntu Server 24.04 Implementation Guide</a></h3><p>Team 2 — Praktikum Konfigurasi dan Administrasi Sistem JaringanDidokumentasikan oleh:Ida Faizatun Za...</p></td>
-    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/768/1*OmOrJ37xdPRV8ATb2d20iA.png" alt="Post Image" style="width: 100px; height: auto;" /></td>
   </tr>
 </table>
 </div>
