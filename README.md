@@ -74,16 +74,16 @@ I love exploring new tech stacks and leveraging them to build cool things.
     <th style="border: 1px solid white; padding: 10px;">Thumbnail</th>
   </tr>
   <tr>
+    <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/tugas-monitoring-suhu-via-android-blynk-acd723b576f9?source=rss-272e0aace4a6------2" target="_blank" style="text-decoration: none;">Tugas: Monitoring Suhu Via Android (Blynk)</a></h3><p>Menambahkan Widget SuperChart pada BlynkPhoto by Markus Winkler on UnsplashSuperChart pada aplikasi ...</p></td>
+    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/1024/0*867BEl-7SoIUOS2F" alt="Post Image" style="width: 100px; height: auto;" /></td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/monitoring-suhu-via-android-blynk-edeb83e0d73c?source=rss-272e0aace4a6------2" target="_blank" style="text-decoration: none;">Monitoring Suhu Via Android (Blynk)</a></h3><p>Memahami prinsip dasar komunikasi antara ponsel Android dan Arduino.Latihan ini bertujuan untuk memp...</p></td>
+    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/628/1*F8RMCPspgHgOxXWu-o00Ug.png" alt="Post Image" style="width: 100px; height: auto;" /></td>
+  </tr>
+  <tr>
     <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/backup-recovery-documentation-138ccc869a5d?source=rss-272e0aace4a6------2" target="_blank" style="text-decoration: none;">Backup &amp; Recovery Documentation</a></h3><p>Team 2 — Praktikum Konfigurasi dan Administrasi Sistem JaringanPhoto by KOBU Agency on UnsplashDidok...</p></td>
     <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/1024/0*njKYNmq8VDKPHh4L" alt="Post Image" style="width: 100px; height: auto;" /></td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/latihan-tugas-monitoring-suhu-dan-jarak-via-komputer-grafik-02479bfa863c?source=rss-272e0aace4a6------2" target="_blank" style="text-decoration: none;">LATIHAN / TUGAS: Monitoring Suhu dan Jarak via Komputer (Grafik)</a></h3><p>Kombinasi Sensor Suhu &amp; JarakLatihan ini merupakan pengembangan dari percobaan sebelumnya, yaitu Mon...</p></td>
-    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/768/1*ReB0-yzT13ECf7lST20vfQ.png" alt="Post Image" style="width: 100px; height: auto;" /></td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/monitoring-suhu-via-komputer-grafik-4f521fb36138?source=rss-272e0aace4a6------2" target="_blank" style="text-decoration: none;">Monitoring Suhu via Komputer (Grafik)</a></h3><p>Memahami prinsip menampilkan output sensor di komputerLatihan ini bertujuan untuk memahami cara meng...</p></td>
-    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/767/1*Cf0ExDufrzl9JR3bYiCfCg.png" alt="Post Image" style="width: 100px; height: auto;" /></td>
   </tr>
 </table>
 </div>
