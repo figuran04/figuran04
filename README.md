@@ -74,16 +74,16 @@ I love exploring new tech stacks and leveraging them to build cool things.
     <th style="border: 1px solid white; padding: 10px;">Thumbnail</th>
   </tr>
   <tr>
+    <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/tugas-kontrol-esp8266-menggunakan-dua-wifi-berbeda-f5fa98c66852?source=rss-272e0aace4a6------2" target="_blank" style="text-decoration: none;">TUGAS — Kontrol ESP8266 Menggunakan Dua WiFi Berbeda</a></h3><p>TUGAS — Kontrol ESP8266 Menggunakan Dua WiFi BerbedaKontrol menggunakan 2 wifi yang berbeda antara S...</p></td>
+    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/1024/0*cPpbpw_IqJCrwdE5" alt="Post Image" style="width: 100px; height: auto;" /></td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/iot-kontrol-relay-melalui-internet-0bb822d2bdf0?source=rss-272e0aace4a6------2" target="_blank" style="text-decoration: none;">IOT Kontrol Relay Melalui Internet</a></h3><p>Memahami konsep dasar IoT blynk cloud dan mengontrol relay melalui jaringan internet.Photo by Angele...</p></td>
+    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/1024/0*azw4MnOTVkAlFtv8" alt="Post Image" style="width: 100px; height: auto;" /></td>
+  </tr>
+  <tr>
     <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/tugas-monitoring-suhu-via-android-blynk-acd723b576f9?source=rss-272e0aace4a6------2" target="_blank" style="text-decoration: none;">Tugas: Monitoring Suhu Via Android (Blynk)</a></h3><p>Menambahkan Widget SuperChart pada BlynkPhoto by Markus Winkler on UnsplashSuperChart pada aplikasi ...</p></td>
     <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/1024/0*867BEl-7SoIUOS2F" alt="Post Image" style="width: 100px; height: auto;" /></td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/monitoring-suhu-via-android-blynk-edeb83e0d73c?source=rss-272e0aace4a6------2" target="_blank" style="text-decoration: none;">Monitoring Suhu Via Android (Blynk)</a></h3><p>Memahami prinsip dasar komunikasi antara ponsel Android dan Arduino.Latihan ini bertujuan untuk memp...</p></td>
-    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/628/1*F8RMCPspgHgOxXWu-o00Ug.png" alt="Post Image" style="width: 100px; height: auto;" /></td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/backup-recovery-documentation-138ccc869a5d?source=rss-272e0aace4a6------2" target="_blank" style="text-decoration: none;">Backup &amp; Recovery Documentation</a></h3><p>Team 2 — Praktikum Konfigurasi dan Administrasi Sistem JaringanPhoto by KOBU Agency on UnsplashDidok...</p></td>
-    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/1024/0*njKYNmq8VDKPHh4L" alt="Post Image" style="width: 100px; height: auto;" /></td>
   </tr>
 </table>
 </div>
